@@ -1,0 +1,74 @@
+<!doctype html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang=""> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8" lang=""> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9" lang=""> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js" lang="">
+<!--<![endif]-->
+<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.4/angular.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.4/angular-route.js"></script>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="description" content="">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Giorgio Audrito</title>
+  <link rel="stylesheet" href="css/bootstrap.min.css">
+  <link rel="stylesheet" href="css/jquery.fancybox.css">
+  <link rel="stylesheet" href="css/main.css">
+  <link rel="stylesheet" href="css/responsive.css">
+  <link rel="stylesheet" href="css/animate.min.css">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+  <link rel="shortcut icon" href="static/favicon.ico">
+</head>
+
+<body ng-app="homeApp">
+<div ng-view></div>
+
+<!-- ANGULAR -->
+<script>
+var app = angular.module("homeApp", ['ngRoute', 'duScroll']).value('duScrollOffset', 60);
+app.config(function($routeProvider) {
+  $routeProvider
+   .when("/home", {
+     templateUrl : "pages/home.html"
+    })
+   .when("/research", {
+     templateUrl : "pages/research/home.html",
+     controller : "researchCtrl"
+    })
+   .when("/games", {
+     templateUrl : "pages/games/home.html",
+     controller : "gamesCtrl"
+    })
+   .when("/society", {
+     templateUrl : "pages/society/home.html",
+     controller : "societyCtrl"
+    })
+   .when("/music", {
+     templateUrl : "pages/music/home.html",
+     controller : "musicCtrl"
+    })
+   .otherwise({
+     redirectTo: "/home"
+    })
+});
+</script>
+<script src="pages/research/researchCtrl.js"></script>
+<script src="pages/games/gamesCtrl.js"></script>
+<script src="pages/society/societyCtrl.js"></script>
+<script src="pages/music/musicCtrl.js"></script>
+<!-- ANGULAR -->
+
+<!-- JS FILES -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/angular-scroll/1.0.2/angular-scroll.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<script src="lib/bootstrap.min.js"></script>
+<script src="lib/jquery.fancybox.pack.js"></script>
+<script src="lib/jquery.waypoints.min.js"></script>
+<script src="lib/retina.min.js"></script>
+<script src="lib/modernizr.js"></script>
+<script src="lib/minifolio.js"></script>
+<script src="lib/common.js"></script>
+</body>
+</html>
