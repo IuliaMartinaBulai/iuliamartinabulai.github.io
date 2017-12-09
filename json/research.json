@@ -1,0 +1,330 @@
+{
+  "address": [
+    "Postdoc @ Ufficio 21,",
+    "<a href=\"http://dei.unipd.it\">Department of Information Engineering</a>,",
+    "<a href=\"https://www.unipd.it\">University of Padova</a>,",
+    "Via Gradenigo 6/b,",
+    "35131 Padova, Italy"
+  ],
+  "topics": [
+    {
+      "title":    "Electrical activity in endocrine cells",
+      "abstract": ""
+    },
+    {
+      "title":    "Ecoepidemiological mathematical models",
+      "abstract": ""
+    },
+    {
+      "title":    "Wastewater bioremediation",
+      "abstract": ""
+    },
+    {
+      "title":    "Numerical analysis",
+      "abstract": ""
+    }
+  ],
+  "types": ["Journal Papers", "Proceedings", "Book Chapters", "Submitted Preprints"],
+  "publications": [
+    {
+      "title":    "Modelling the direct and indirect effects of pollutants on the survival of fish in water bodies",
+      "authors":  "P. K. Tiwari, I. M. Bulai, A. K. Misra and E. Venturino",
+      "journal":  "Journal of Biological Systems",
+      "year":     2017,
+      "link":     "",
+      "topic":    "Wastewater bioremediation",
+      "type":     "Journal Papers",
+      "_date":    "17.11.22",
+      "abstract": [
+        ""
+      ]
+    },
+    {
+      "title":    "Shape effects on herd behaviour in ecological interacting population models",
+      "authors":  "I. M. Bulai, E. Venturino",
+      "journal":  "Mathematics and Computers in Simulation",
+      "year":     2017,
+      "link":     "",
+      "topic":    "Ecoepidemiological mathematical models",
+      "type":     "Journal Papers",
+      "_date":    "17.07.01",
+      "abstract": [
+        ""
+      ]
+    },
+    {
+      "title":    "Two mathematical models for dissolved oxygen in a lake",
+      "authors":  "I. M. Bulai, E. Venturino",
+      "journal":  "Journal of Mathematical Chemistry",
+      "year":     2017,
+      "link":     "",
+      "topic":    "Wastewater bioremediation",
+      "type":     "Journal Papers",
+      "_date":    "17.05.11",
+      "abstract": [
+        ""
+      ]
+    },
+    {
+      "title":    "The Beddington-De Angelis and the HTII product response functions: application to polluted ecosystems biodegradation",
+      "authors":  "I. M. Bulai, E. Venturino",
+      "journal":  "AIP Conference Proceedings",
+      "year":     2016,
+      "link":     "",
+      "topic":    "Wastewater bioremediation",
+      "type":     "Proceedings",
+      "_date":    "17.09.08",
+      "abstract": [
+        ""
+      ]
+    },
+    {
+      "title":    "Hierarchical bases preconditioner to enhance convergence of the CFIE with multiscale meshes",
+      "authors":  "M. Righero, I. M. Bulai, M. A. Francavilla, F. Vipiana, Mirko Bercigli, A. Mori, M. Bandinelli, G. Vecchi.",
+      "journal":  "IEEE Antennas and Wireless Propagation Letters",
+      "year":     2016,
+      "link":     "",
+      "topic":    "Numerical analysis",
+      "type":     "Journal Papers",
+      "_date":    "15.06.01",
+      "abstract": [
+        ""
+      ]
+    },
+    {
+      "title":    "Biodegradation of organic pollutants in a water body",
+      "authors":  "I. M. Bulai, E. Venturino",
+      "journal":  "Journal of Mathematical Chemistry",
+      "year":     2016,
+      "link":     "",
+      "topic":    "Wastewater bioremediation",
+      "type":     "Journal Papers",
+      "_date":    "17.09.18",
+      "abstract": [
+        ""
+      ]
+    },
+    {
+      "title":    "Gabor Frames of Gaussian Beams for the Schrödinger equation",
+      "authors":  "M. Berra, I. M. Bulai, E. Cordero and F. Nicola",
+      "journal":  "Applied and Computational Harmonic Analysis",
+      "year":     2015,
+      "link":     "",
+      "topic":    "Numerical analysis",
+      "type":     "Journal Papers",
+      "_date":    "17.09.18",
+      "abstract": [
+        ""
+      ]
+    },
+    {
+      "title":    "Comparing disease-control policies for interacting wild populations",
+      "authors":  "I. M. Bulai, R. Cavoretto, B. Chialva, D. Duma, E. Venturino.",
+      "journal":  "Nonlinear Dynamics,",
+      "year":     2014,
+      "link":     "",
+      "topic":    "Wastewater bioremediation",
+      "type":     "Journal Papers",
+      "_date":    "17.09.20",
+      "abstract": [
+        ""
+      ]
+    },
+    {
+      "title":    "Modeling the endophytic fungus Epicoccum nigrum action to fight the “olive knot” disease caused by Pseudomonas savastanoi pv. savastanoi (Psv) bacteria in Olea europea trees",
+      "authors":  "P. Baptista, C.Berardo, I. M. Bulai, T. Gomes, E. Venturino,",
+      "journal":  "BIOMAT 2017",
+      "year":     2017,
+      "link":     "",
+      "topic":    "Ecoepidemiological mathematical models",
+      "type":     "Book Chapters",
+      "_date":    "17.05.27",
+      "abstract": [
+        ""
+      ]
+    },
+    {
+      "title":    "A mathematical model for a diseased orange tree",
+      "authors":  "I. M. Bulai, A.C. Esteves E. Venturino",
+      "journal":  "Proceedings of the 17th International Conference on Computational and Mathematical Methods in Science and Engineering",
+      "year":     2017,
+      "link":     "",
+      "topic":    "Ecoepidemiological mathematical models",
+      "type":     "Proceedings",
+      "_date":    "16.09.14",
+      "abstract": [
+        ""
+      ]
+    },
+    {
+      "title":    "Competition between algae and fungi in a lake: a mathematical model",
+      "authors":  "I. M. Bulai, E. Venturino",
+      "journal":  "Proceedings of the 16th International Conference on Computational and Mathematical Methods in Science and Engineering,",
+      "year":     2016,
+      "link":     "",
+      "topic":    "Wastewater bioremediation",
+      "type":     "Proceedings",
+      "_date":    "16.05.19",
+      "abstract": [
+        ""
+      ]
+    },
+    {
+      "title":    "Wastewater bioremediation using white rot fungi: validation of a dynamical system",
+      "authors":  "I. M. Bulai, F. Spina, G. C. Varese, E. Venturino",
+      "journal":  "Biomath Communications, Vol 3, No 1",
+      "year":     2016,
+      "link":     "",
+      "topic":    "Wastewater bioremediation",
+      "type":     "Proceedings",
+      "_date":    "12.08.01",
+      "abstract": [
+        ""
+      ]
+    },
+    {
+      "title":    "A mathematical model for the biodegradation of organic pollutants in a lake",
+      "authors":  "I. M. Bulai, E. Venturino",
+      "journal":  "Proceedings of the 15th International Conference on Computational and Mathematical Methods in Science and Engineering",
+      "year":     2015,
+      "link":     "ISBN:",
+      "topic":    "Wastewater bioremediation",
+      "type":     "Proceedings",
+      "_date":    "15.07.01",
+      "abstract": [
+        ""
+      ]
+    },
+      {
+      "title":    "Do niches help in controlling disease spread in ecoepidemic models?",
+      "authors":  "I. M. Bulai, B. Chialva, D. Duma, E. Venturino",
+      "journal":  "Proceedings of the 2013 International Conference on Computational and Mathematical Methods in Science and Engineering",
+      "year":     2013,
+      "link":     "",
+      "topic":    "Ecoepidemiological mathematical models",
+      "type":     "Proceedings",
+      "_date":    "10.01.01",
+      "abstract": [
+        ""
+      ]
+    },
+    {
+      "title":    "Stopping waves: Geometric analysis of coupled bursters in an asymmetric excitation field",
+      "authors":  "I. M. Bulai, M. G. Pedersen",
+      "journal":  "Submitted to SIAM Journal on Applied Dynamical Systems",
+      "year":     2017,
+      "link":     "",
+      "topic":    "Electrical activity in endocrine cells",
+      "type":     "Submitted Preprints",
+      "_date":    "16.01.01",
+      "abstract": [
+        ""
+      ]
+    },
+  
+    {
+      "title":    "Waste-water bioremediation using white rot fungi: validation of a dynamical system with real data obtained in laboratory",
+      "authors":  "I. M. Bulai, F. Spina, G. C. Varese, E. Venturino",
+      "journal":  "Submitted to Mathematical Methods in the Applied Sciences",
+      "year":     2017,
+      "link":     "",
+      "topic":    "Wastewater bioremediation",
+      "type":     "Submitted Preprints",
+      "_date":    "17.11.01",
+      "abstract": [
+        ""
+      ]
+    },
+    {
+      "title":    "Modelling the effect of human population on the fish survival in water bodies",
+      "authors":  "P. K. Tiwari, I. M. Bulai, E. Venturino, A. K. Misra",
+      "journal":  "Submitted to ",
+      "year":     2016,
+      "link":     "",
+      "topic":    "Wastewater bioremediation",
+      "type":     "Submitted Preprints",
+      "_date":    "17.10.01",
+      "abstract": [
+        ""
+      ]
+    }
+  ],
+  "news": [
+    {
+      "title":    "Research assistant on “Spatiotemporal and Stochastic Simulation Studies of Calcium Channels Effects in Endocrine Cells”",
+      "subtitle": "Università degli Studi di Padova, 15/03/2017-present",
+      "type":     "Position",
+      "_date":    "16.01.01"
+    },
+    {
+      "title":    "Ph.D. in Mathematics",
+      "subtitle": "Università degli Studi di Torino, 23/02/2017",
+      "text":     [""],
+      "type":     "Position",
+      "_date":    "16.03.02"
+    },
+    {
+      "title":    "Teaching assistant for the “Mathematical Analysis I” course",
+      "subtitle": "Politecnico di Torino, 29/09/2016-21/01/2017",
+      "type":     "Position",
+      "_date":    "17.09.31"
+    },
+    {
+      "title":    "Teaching assistant “articolo 76” for the ”Mathematics” course,",
+      "subtitle": "Università degli Studi di Torino, ",
+      "type":     "Role",
+      "_date":    "16.10.01"
+    },
+    {
+      "title":    "Team leader of the Italian team",
+      "subtitle": "International Olympiads in Informatics, Brisbane, Australia, 2013",
+      "type":     "Role",
+      "_date":    "13.08.10"
+    },
+    {
+      "title":    "Local Organization Co-Chair",
+      "subtitle": "iFM 2017, Torino",
+      "type":     "Role",
+      "_date":    "17.09.17"
+    },
+    {
+      "title":    "Artifact Evaluation Committee member",
+      "subtitle": "OOPSLA track, SPLASH 2017, Vancouver, Canada",
+      "type":     "Role",
+      "_date":    "17.10.25"
+    },
+    {
+      "title":    "Program Committe member",
+      "subtitle": "ALP4IoT workshop, iFM 2017, Torino",
+      "type":     "Role",
+      "_date":    "17.09.17"
+    },
+    {
+      "title":    "Program Committe member",
+      "subtitle": "eCAS workshop, SASO 2017 conference, Tucson, USA",
+      "type":     "Role",
+      "_date":    "17.09.22"
+    },
+    {
+      "title":    "Best Paper of COORDINATION",
+      "subtitle": "Optimally-Self-Healing Distributed Gradient Structures through Bounded Information Speed, 20/06/2017",
+      "type":     "Prize",
+      "_date":    "17.06.20"
+    }
+  ],
+  "teaching": [
+    {
+      "title": "Work in Progress",
+      "text": "This is some dummy text.",
+      "_template": "section",
+      "items": [
+        {
+          "title": "Work in Progress",
+          "text": ["This is some dummy text."],
+          "_color": "#eee",
+          "_template": "box"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+<!-- header section -->
+<section class="innerbanner" role="banner" ng-style="data.background">
+  <!-- navigation section  -->
+  <header id="header">
+    <div class="header-content clearfix">
+      <a class="logo" href="#!/home"><img ng-src="static/name.{{data.theme}}.png" alt="Iulia Martina Bulai"></a>
+      <nav class="navbar-collapse" role="navigation" ng-class="{collapse: isNavCollapsed}">
+        <ul class="primary-nav">
+          <li ng-repeat="p in data.pages">
+            <a ng-href="#!/{{p.link}}" class="shadowed" ng-class="p.current">{{ p.title }}</a>
+          </li>
+        </ul>
+      </nav>
+      <div type="button" class="nav-toggle visible-xs visible-sm" ng-init="isNavCollapsed = true" ng-click="isNavCollapsed = !isNavCollapsed">Menu<span></span></div>
+    </div>
+  </header>
+  <!-- navigation section  -->
+
+  <!-- banner text -->
+  <div class="container">
+    <div class="col-md-10 col-md-offset-1">
+      <div class="innerbanner-text text-center">
+        <p><span class="shadowed">{{data.title}}</span></p>
+      </div>
+    </div>
+  </div>
+  <!-- banner text -->
+</section>
+<!-- header section -->

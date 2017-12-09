@@ -21,10 +21,6 @@ $(document).ready(function() {
 	}, {
 		offset: '75%'
 	});
-
-	// Fancybox
-	$('.work-box').fancybox();
-
 	
 	// Page Scroll
 	var sections = $('section')

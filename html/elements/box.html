@@ -1,0 +1,29 @@
+<div class="box-main">
+  <div class="box-header" ng-style="{'background-color': i._color}">
+    <i><u>{{i.teaser}}</u></i>
+    <table style="width:100%">
+      <tr>
+        <td>{{i.num}}{{i.pretitle}}<br ng-if="i.pretitle && (i.pretitle+i.title).length > 110"><b>{{i.title}}</b></td>
+        <td class="flushleft" ng-if="i.text.length">
+          <i ng-class="{'fa fa-chevron-up': i._show == true, 'fa fa-chevron-down': i._show == false}" ng-click="i._show = !i._show"></i>
+        </td>
+      </tr>
+    </table>
+    <table style="width:100%">
+      <tr>
+        <td><i>{{i.subtitle}}</i></td>
+        <td class="flushleft hidden-xs hidden-sm">
+          <a ng-href="{{i.link}}" target="_blank"><u>{{i.subsubtitle}}</u></a>
+        </td>
+      </tr>
+      <tr>
+        <td class="visible-xs visible-sm">
+          <a ng-href="{{i.link}}" target="_blank"><u>{{i.subsubtitle}}</u></a>
+        </td>
+      </tr>
+    </table>
+  </div>
+  <div class="box-content" ng-class="i._dim" ng-show="i._show">
+    <p ng-repeat="line in i.text"><span mathjax-bind="line"></span></p>
+  </div>
+</div>
