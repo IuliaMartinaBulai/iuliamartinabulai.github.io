@@ -312,12 +312,5 @@
       "_date":    "17.06.20"
     }
   ],
-   "teaching": [
-    {
-      "title": "Courses",
-      "text": [
-        "<ul><li>2015/16. <a href=\"http://of.uniupo.it/2017/1932/guida.html#74957\" target=\"_blank\"><i>Object Oriented Programming.</i></a> Bachelor in Computer Science, Università del Piemonte Orientale, Vercelli.</li><li>2016/17. <a href=\"http://of.uniupo.it/2016/1932/guida.html#73620\" target=\"_blank\"><i>Object Oriented Programming.</i></a> Bachelor in Computer Science, Università del Piemonte Orientale, Vercelli.</li></ul>",
-        "Further information available <a href=\"https://upobook.uniupo.it/personale/1486\" target=\"_blank\">here.</a>"
-     }
-  ]
+   
 }
