@@ -313,4 +313,25 @@
     }
   ],
    
+ "teaching": [
+    {
+      "title": "Courses",
+      "text": [
+        "<ul><li>2017/18. <a href=\"http://of.uniupo.it/2017/1932/guida.html#74957\" target=\"_blank\"><i>Object Oriented Programming.</i></a> Bachelor in Computer Science, Università del Piemonte Orientale, Vercelli.</li><li>2016/17. <a href=\"http://of.uniupo.it/2016/1932/guida.html#73620\" target=\"_blank\"><i>Object Oriented Programming.</i></a> Bachelor in Computer Science, Università del Piemonte Orientale, Vercelli.</li></ul>",
+        "Further information available <a href=\"https://upobook.uniupo.it/personale/1486\" target=\"_blank\">here.</a>"
+      ]
+    },
+    {
+      "title": "Olympiads in Informatics",
+      "text": [
+        "<b>International Olympiads in Informatics in Teams (ioIT).</b><br>Check out the <a href=\"https://ioi.team/\" target=\"_blank\">international</a> and <a href=\"http://www.olimpiadi-informatica-squadre-italia.it/\" target=\"_blank\">italian</a> websites.<br>Live announcements on upcoming events are available in <a href=\"http://codeforces.com/blog/harniver\" target=\"_blank\">my codeforces blog</a>.",
+        "<b>Olimpiadi Italiane di Informatica (OII).</b><br>Check out the <a href=\"https://training.olinfo.it\" target=\"_blank\">training</a> and <a href=\"https://www.olimpiadi-informatica.it/\" target=\"_blank\">istitutional</a> websites."
+      ]
+    },
+    {
+      "title": "Thesis Proposals",
+      "text": ["<ul><li>Completed:<ul><li>Luca Serena. <a href=\"https://github.com/luca-Serena/tesi-strutture-dati-compressione\" target=\"_blank\"><i>Strutture dati compresse: implementazione grafica di un Wavelet Tree in Java.</i></a><br>Bachelor in Computer Science, Università di Torino, 16/10/2017.</li></ul></li><li>Ongoing:<ul><li>Sergio Bergamini. <a href=\"https://bitbucket.org/gaudrito/audrito-bergamini-summarising\" target=\"_blank\"><i>Distributed Data Collection in Situated Networks.</i></a><br>Bachelor in Computer Science, Università di Torino.</li></ul></li><li>Available:<ul><li><a href=\"https://drive.google.com/file/d/0B8V0DWzHPCYeN3o4c2VTRmVvNDQ/view\" target=\"_blank\">Efficient simulation of aggregate computing algorithms.</a></li></li><li><a href=\"https://drive.google.com/file/d/0B8V0DWzHPCYeSmtucnJDX01ZeEU/view\" target=\"_blank\">Algorithmic problems for aggregate computing.</a></li></li><li><a href=\"https://drive.google.com/file/d/0B8V0DWzHPCYeVTRzcTJiR2NwUXM/view\" target=\"_blank\">Accelerating aggregate computing algorithms.</a></li></li><li><a href=\"https://drive.google.com/file/d/0B8V0DWzHPCYeNXNmWkpPQXVuTU0/view\" target=\"_blank\">Automatic measurement of sound qualities and dissonance.</a></li></li><li><a href=\"https://drive.google.com/file/d/0B8V0DWzHPCYeU0E2QVFPa1BoYkE/view\" target=\"_blank\">Optimizing compression of wavelet trees.</a></li></ul></li></ul>"]
+    }
+  ]
 }
+
