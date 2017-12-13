@@ -265,13 +265,13 @@
     },
     {
       "title":    "Teaching assistant for the “Mathematical Analysis I” course",
-      "subtitle": "Politecnico di Torino, 29/09/2016-21/01/2017",
+      "subtitle": "Politecnico di Torino, 2016/2017",
       "type":     "Position",
       "_date":    "17.09.31"
     },
     {
-      "title":    "Teaching assistant “articolo 76” for the ”Mathematics” course,",
-      "subtitle": "Università degli Studi di Torino, ",
+      "title":    "Teaching assistant “articolo 76” for the ”Mathematics” course",
+      "subtitle": "Università degli Studi di Torino, 2015/2016",
       "type":     "Role",
       "_date":    "16.10.01"
     },
@@ -319,7 +319,7 @@
     },  
                             {
       "title":    "Best Student Presentation Award",
-      "subtitle": " International Conference on Mathematical Methods and Models in Biosciences and the School for Young Scientists, 19–25 June 2016, Blagoevgrad–BU.",
+      "subtitle": " International Conference on Mathematical Methods and Models in Biosciences and the School for Young Scientists, 19–25 June 2016, Blagoevgrad–BU",
       "link":     "",
       "type":     "Prize",
       "_date":    "16.06.19"
@@ -430,21 +430,21 @@
       "_date":    "14.11.01"
     }, 
                                                                                       {
-      "title":    "Summer school on",
+      "title":    "Summer school",
       "subtitle": "Physics Applications in Biology, San Paolo–BR, 11-29 January, 2016",
       "link":     "",
       "type":     "Event",
       "_date":    "16.01.01"
     }, 
                                                                                           {
-      "title":    "Summer school on",
+      "title":    "Summer school",
       "subtitle": "V Southern-Summer School on Mathematical Biology, San Paolo–BR, 4–10 January, 2016",
       "link":     "",
       "type":     "Event",
       "_date":    "16.01.01"
     }, 
                                                                                               {
-      "title":    "Summer school on",
+      "title":    "Summer school",
       "subtitle": "Computational Harmonic Analysis - with Applications to Signal and Image Processing , Marsiglia – FR, October 2014",
       "link":     "",
       "type":     "Event",
@@ -455,8 +455,7 @@
        {
       "title": "Courses",
       "text": [
-        "<ul><li>2017/18. <a href=\"http://of.uniupo.it/2017/1932/guida.html#74957\" target=\"_blank\"><i>Object Oriented Programming.</i></a> Bachelor in Computer Science, Università del Piemonte Orientale, Vercelli.</li><li>2016/17. <a href=\"http://of.uniupo.it/2016/1932/guida.html#73620\" target=\"_blank\"><i>Object Oriented Programming.</i></a> Bachelor in Computer Science, Università del Piemonte Orientale, Vercelli.</li></ul>",
-        "Further information available <a href=\"https://upobook.uniupo.it/personale/1486\" target=\"_blank\">here.</a>"
+        "<ul><li>2016/17. <a target=\"_blank\"><i>Analysis I.</i></a> Bachelor in Ingegneering, Politecnico di Torino.</li><li>2015/16. <a  target=\"_blank\"><i>Mathematics.</i></a> Bachelor Course, Università degli Studi di Torino, Torino.</li></ul>",
       ]
     }
   ]
