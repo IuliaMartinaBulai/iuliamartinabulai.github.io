@@ -147,7 +147,6 @@ app.controller('researchCtrl', function($scope, $rootScope, $routeParams, $locat
       home page
     ------------------------------*/
     title:    "Home",
-    maxlen:   1,
     teaser:   true,
     painter:  function(db) {
                 let highlighs = partitionDates(db.news, function(x) {
@@ -194,7 +193,7 @@ app.controller('researchCtrl', function($scope, $rootScope, $routeParams, $locat
     /*------------------------------
       publications page
     ------------------------------*/
-    title:   "Publications",
+    title:    "Publications",
     painter:  function(db) {
                 let content = [];
                 for (const d of db.types) content.push({title: d});
@@ -208,6 +207,7 @@ app.controller('researchCtrl', function($scope, $rootScope, $routeParams, $locat
       events page
     ------------------------------*/
     title:    "Events",
+    maxlen:   5,
     painter:  function(db) {
                 let content = partitionDates(db.news, function(x) {
                   return x.type == "Event";
@@ -221,7 +221,7 @@ app.controller('researchCtrl', function($scope, $rootScope, $routeParams, $locat
     /*------------------------------
       teaching page
     ------------------------------*/
-    title:   "Teaching",
+    title:    "Teaching",
     painter:  function(db) {
                 for (let d of db.teaching) {
                   d._template = "box";

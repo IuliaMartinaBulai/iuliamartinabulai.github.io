@@ -15,7 +15,8 @@
     <input type="text" placeholder="search" ng-model="data.searchKey"></input>
     <ul id="nav" class="nav">
       <li ng-repeat="x in data.contents | filter : {'_key': data.searchKey}">
-        <a du-smooth-scroll="{{x._ref}}" du-scrollspy>{{x.title}}{{x.subtitle}}</a>
+        <a du-smooth-scroll="{{x._ref}}" du-scrollspy ng-hide="x._num >= data.maxlen">{{x.title}}{{x.subtitle}}</a>
+        <a ng-click="data.maxlen = data.maxlen + 2" ng-if="x._num != undefined && x._num == data.maxlen">show more</a>
       </li>
     </ul>
   </div>

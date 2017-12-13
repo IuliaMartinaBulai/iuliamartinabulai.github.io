@@ -12,7 +12,12 @@
         </div>
         <div class="col-sm-9">
           <div ng-repeat="i in data.contents | filter : {'_key': data.searchKey}">
-            <div ng-include="'html/elements/'+i._template+'.html'"></div>
+            <div ng-hide="i._num >= data.maxlen">
+              <div ng-include="'html/elements/'+i._template+'.html'"></div>
+            </div>
+            <h5 ng-if="i._num != undefined && i._num == data.maxlen">
+              <a ng-click="data.maxlen = data.maxlen + 2" id="showmore"><u>show more</u></a>
+            </h5>
           </div>
         </div>
       </div>
