@@ -358,9 +358,108 @@
       "link":     "",
       "type":     "Event",
       "_date":    "14.02.01"
+    },
+                                                  {
+      "title":    "Contributed talk",
+      "subtitle": "DSABNS, Évora – PT, January-February 2017",
+      "link":     "",
+      "type":     "Event",
+      "_date":    "17.02.01"
+    }, 
+                                                      {
+      "title":    "Contributed talk",
+      "subtitle": "2nd Franco-Italian Mathematical Ecology Days, Torino– IT, May 2017",
+      "link":     "",
+      "type":     "Event",
+      "_date":    "17.05.01"
+    }, 
+                                                          {
+      "title":    "Contributed talk",
+      "subtitle": "1nd Franco-Italian Mathematical Ecology Days, Torino– IT, November 2016",
+      "link":     "",
+      "type":     "Event",
+      "_date":    "16.11.01"
+    }, 
+                                                              {
+      "title":    "Contributed talk",
+      "subtitle": "CMMSE 2016, Rota, Cadiz – ES, July 2016",
+      "link":     "",
+      "type":     "Event",
+      "_date":    "16.07.01"
+    }, 
+                                                                  {
+      "title":    "Contributed talk",
+      "subtitle": "BIOMATH2016, Blagoevgrad–BU June 2016",
+      "link":     "",
+      "type":     "Event",
+      "_date":    "16.06.01"
+    }, 
+                                                                      {
+      "title":    "Contributed talk",
+      "subtitle": "Seminari dei dottorandi, Torino – IT, March 2016",
+      "link":     "",
+      "type":     "Event",
+      "_date":    "16.03.01"
+    }, 
+                                                                          {
+      "title":    "Contributed talk",
+      "subtitle": "Welcome home, Torino – IT, December 2015",
+      "link":     "",
+      "type":     "Event",
+      "_date":    "15.12.01"
+    }, 
+                                                                              {
+      "title":    "Contributed talk",
+      "subtitle": "ICNAAM2015, Rhodes– GR, September 2015",
+      "link":     "",
+      "type":     "Event",
+      "_date":    "15.09.01"
+    }, 
+                                                                                  {
+      "title":    "Contributed talk",
+      "subtitle": "CMMSE2015, Rota, Cadiz – ES, July 2015",
+      "link":     "",
+      "type":     "Event",
+      "_date":    "15.06.01"
+    }, 
+                                                                                      {
+      "title":    "Contributed talk",
+      "subtitle": "Seminari dei dottorandi, Torino – IT, November 2014",
+      "link":     "",
+      "type":     "Event",
+      "_date":    "14.11.01"
+    }, 
+        }, 
+                                                                                      {
+      "title":    "Summer school on",
+      "subtitle": "Physics Applications in Biology, San Paolo–BR, 11-29 January, 2016",
+      "link":     "",
+      "type":     "Event",
+      "_date":    "16.01.01"
+    }, 
+                                                                                          {
+      "title":    "Summer school on",
+      "subtitle": "V Southern-Summer School on Mathematical Biology, San Paolo–BR, 4–10 January, 2016",
+      "link":     "",
+      "type":     "Event",
+      "_date":    "16.01.01"
+    }, 
+                                                                                              {
+      "title":    "Summer school on",
+      "subtitle": "Computational Harmonic Analysis - with Applications to Signal and Image Processing , Marsiglia – FR, October 2014",
+      "link":     "",
+      "type":     "Event",
+      "_date":    "14.10.01"
     }
   ],
  "teaching": [
+       {
+      "title": "Courses",
+      "text": [
+        "<ul><li>2017/18. <a href=\"http://of.uniupo.it/2017/1932/guida.html#74957\" target=\"_blank\"><i>Object Oriented Programming.</i></a> Bachelor in Computer Science, Università del Piemonte Orientale, Vercelli.</li><li>2016/17. <a href=\"http://of.uniupo.it/2016/1932/guida.html#73620\" target=\"_blank\"><i>Object Oriented Programming.</i></a> Bachelor in Computer Science, Università del Piemonte Orientale, Vercelli.</li></ul>",
+        "Further information available <a href=\"https://upobook.uniupo.it/personale/1486\" target=\"_blank\">here.</a>"
+      ]
+    }
   ]
 }
 
