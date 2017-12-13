@@ -274,6 +274,62 @@
       "subtitle": "Università degli Studi di Torino, ",
       "type":     "Role",
       "_date":    "16.10.01"
+    },
+        {
+      "title":    "Co-organizer",
+      "subtitle": "CAMo: from molecules to modelling, 2017, Torino",
+      "link":     "",
+      "type":     "Event",
+      "_date":    "15.09.01"
+    },
+            {
+      "title":    "Co-organizer",
+      "subtitle": "Franco-Italian Mathematical Ecology Days, 2016, Torino",
+      "link":     "",
+      "type":     "Event",
+      "_date":    "16.09.01"
+    },
+                {
+      "title":    "Member",
+      "subtitle": "Society for Mathematical Biology, 2016-present",
+      "link":     "",
+      "type":     "Event",
+      "_date":    "16.01.01"
+    },
+                    {
+      "title":    "Member",
+      "subtitle": "Gruppo Nazionale per il Calcolo Scientifico, GNCS-IN$\delta$AM, 2016-present",
+      "link":     "",
+      "type":     "Event",
+      "_date":    "16.01.01"
+    },
+                        {
+      "title":    "Member",
+      "subtitle": "Member of Gruppo Nazionale per l’Analisi Matematica, la Probabilità e le loro Applicazioni, GNAMPA-IN$\delta$AM, 2013-2015",
+      "link":     "",
+      "type":     "Event",
+      "_date":    "13.01.01"
+    },
+                        {
+      "title":    "IN$\delta$AM grant",
+      "subtitle": "Finanziamento GNCS Giovani Ricercatori 2016",
+      "link":     "",
+      "type":     "Prize",
+      "_date":    "16.10.01"
+    },  
+                            {
+      "title":    "Best Student Presentation Award",
+      "subtitle": " International Conference on Mathematical Methods and Models in Biosciences and the School for Young Scientists, 19–25 June 2016, Blagoevgrad–BU.",
+      "link":     "",
+      "type":     "Prize",
+      "_date":    "16.06.19"
+    },
+                                {
+      "title":    "Erasmus Traineeship grant",
+      "subtitle": " Erasmus Traineeship grant, 29 July–30 September 2016, University of Osnabrück, Germany",
+      "link":     "",
+      "type":     "Prize",
+      "_date":    "16.07.29"
     }
   ],
  "teaching": [
