@@ -330,7 +330,35 @@
       "link":     "",
       "type":     "Prize",
       "_date":    "16.07.29"
-    }
+    },
+                                    {
+      "title":    "Visiting position",
+      "subtitle": " Institute of Environmental Systems Research, Osnabreuck, January 2017",
+      "link":     "",
+      "type":     "Event",
+      "_date":    "17.01.01"
+    },
+                                        {
+      "title":    "Visiting position",
+      "subtitle": "Institute of Environmental Systems Research, Osnabrueck, August-September 2016",
+      "link":     "",
+      "type":     "Event",
+      "_date":    "16.08.01"
+    },
+                                           {
+      "title":    "Visiting position",
+      "subtitle": "Istituto Superiore Mario Boella (LACE), Torino, September 2014-March 2015",
+      "link":     "",
+      "type":     "Event",
+      "_date":    "14.09.01"
+    },
+                                               {
+      "title":    "Visiting position",
+      "subtitle": "Numerical Harmonic Analysis Group (NuHAG), Vienna, February-March 2014",
+      "link":     "",
+      "type":     "Event",
+      "_date":    "14.02.01"
+    },
   ],
  "teaching": [
   ]
