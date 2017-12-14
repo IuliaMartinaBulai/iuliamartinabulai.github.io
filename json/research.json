@@ -8,7 +8,7 @@
   ],
   "topics": [
     {
-      "title":    "Electrical activity in endocrine cells",
+      "title":    "Spatiotemporal and Stochastic models for endocrine cells",
       "abstract": ""
     },
     {
@@ -187,7 +187,7 @@
       "authors":  "I. M. Bulai, E. Venturino",
       "journal":  "Proceedings of the 15th International Conference on Computational and Mathematical Methods in Science and Engineering",
       "year":     2015,
-      "link":     "ISBN:",
+      "link":     "",
       "topic":    "Wastewater bioremediation",
       "type":     "Proceedings",
       "_date":    "15.07.01",
@@ -211,7 +211,7 @@
     {
       "title":    "Stopping waves: Geometric analysis of coupled bursters in an asymmetric excitation field",
       "authors":  "I. M. Bulai, M. G. Pedersen",
-      "journal":  "",
+    "journal":  "Submitted",
       "year":     2017,
       "link":     "",
       "topic":    "Electrical activity in endocrine cells",
@@ -238,7 +238,7 @@
     {
       "title":    "Modelling the effect of human population on the fish survival in water bodies",
       "authors":  "P. K. Tiwari, I. M. Bulai, E. Venturino, A. K. Misra",
-      "journal":  " ",
+      "journal":  "Submitted",
       "year":     2016,
       "link":     "",
       "topic":    "Wastewater bioremediation",
