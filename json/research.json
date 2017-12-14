@@ -119,8 +119,8 @@
     },
     {
       "title":    "Comparing disease-control policies for interacting wild populations",
-      "authors":  "I. M. Bulai, R. Cavoretto, B. Chialva, D. Duma, E. Venturino.",
-      "journal":  "Nonlinear Dynamics,",
+      "authors":  "I. M. Bulai, R. Cavoretto, B. Chialva, D. Duma, E. Venturino",
+      "journal":  "Nonlinear Dynamics",
       "year":     2014,
       "link":     "https://link.springer.com/article/10.1007/s11071-014-1781-7",
       "topic":    "Ecoepidemiological mathematical models",
@@ -132,13 +132,13 @@
     },
     {
       "title":    "Modeling the endophytic fungus Epicoccum nigrum action to fight the “olive knot” disease caused by Pseudomonas savastanoi pv. savastanoi (Psv) bacteria in Olea europea trees",
-      "authors":  "P. Baptista, C.Berardo, I. M. Bulai, T. Gomes, E. Venturino,",
+      "authors":  "P. Baptista, C.Berardo, I. M. Bulai, T. Gomes, E. Venturino",
       "journal":  "BIOMAT 2017",
       "year":     2017,
       "link":     "",
       "topic":    "Ecoepidemiological mathematical models",
       "type":     "Book Chapters",
-      "_date":    "18.01.01",
+      "_date":    "17.11.01",
       "abstract": [
         ""
       ]
@@ -211,7 +211,7 @@
     {
       "title":    "Stopping waves: Geometric analysis of coupled bursters in an asymmetric excitation field",
       "authors":  "I. M. Bulai, M. G. Pedersen",
-      "journal":  "Submitted to SIAM Journal on Applied Dynamical Systems",
+      "journal":  "",
       "year":     2017,
       "link":     "",
       "topic":    "Electrical activity in endocrine cells",
@@ -238,7 +238,7 @@
     {
       "title":    "Modelling the effect of human population on the fish survival in water bodies",
       "authors":  "P. K. Tiwari, I. M. Bulai, E. Venturino, A. K. Misra",
-      "journal":  "Submitted to ",
+      "journal":  " ",
       "year":     2016,
       "link":     "",
       "topic":    "Wastewater bioremediation",
