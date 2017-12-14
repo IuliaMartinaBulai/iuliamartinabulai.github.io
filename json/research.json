@@ -80,7 +80,7 @@
     },
     {
       "title":    "Hierarchical bases preconditioner to enhance convergence of the CFIE with multiscale meshes",
-      "authors":  "M. Righero, I. M. Bulai, M. A. Francavilla, F. Vipiana, Mirko Bercigli, A. Mori, M. Bandinelli, G. Vecchi.",
+      "authors":  "M. Righero, I. M. Bulai, M. A. Francavilla, F. Vipiana, Mirko Bercigli, A. Mori, M. Bandinelli, G. Vecchi",
       "journal":  "IEEE Antennas and Wireless Propagation Letters",
       "year":     2016,
       "link":     "http://ieeexplore.ieee.org/document/7434583/",
@@ -159,7 +159,7 @@
     {
       "title":    "Competition between algae and fungi in a lake: a mathematical model",
       "authors":  "I. M. Bulai, E. Venturino",
-      "journal":  "Proceedings of the 16th International Conference on Computational and Mathematical Methods in Science and Engineering,",
+      "journal":  "Proceedings of the 16th International Conference on Computational and Mathematical Methods in Science and Engineering",
       "year":     2016,
       "link":     "",
       "topic":    "Wastewater bioremediation",
@@ -177,7 +177,7 @@
       "link":     "",
       "topic":    "Wastewater bioremediation",
       "type":     "Proceedings",
-      "_date":    "12.08.01",
+      "_date":    "16.08.01",
       "abstract": [
         ""
       ]
@@ -203,7 +203,7 @@
       "link":     "",
       "topic":    "Ecoepidemiological mathematical models",
       "type":     "Proceedings",
-      "_date":    "10.01.01",
+      "_date":    "13.01.01",
       "abstract": [
         ""
       ]
@@ -258,22 +258,22 @@
     },
     {
       "title":    "Ph.D. in Mathematics",
-      "subtitle": "Università degli Studi di Torino, 23/02/2017",
+      "subtitle": "Università degli Studi di Torino, 01/01/2014-31/12/2016",
       "text":     [""],
       "type":     "Position",
-      "_date":    "16.03.02"
+      "_date":    "14.01.01"
     },
     {
       "title":    "Teaching assistant for the “Mathematical Analysis I” course",
       "subtitle": "Politecnico di Torino, 2016/2017",
       "type":     "Position",
-      "_date":    "17.09.31"
+      "_date":    "16.09.31"
     },
     {
       "title":    "Teaching assistant “articolo 76” for the ”Mathematics” course",
       "subtitle": "Università degli Studi di Torino, 2015/2016",
       "type":     "Role",
-      "_date":    "16.10.01"
+      "_date":    "15.10.01"
     },
         {
       "title":    "Co-organizer",
@@ -287,7 +287,7 @@
       "subtitle": "Franco-Italian Mathematical Ecology Days, 2016, Torino",
       "link":     "",
       "type":     "Event",
-      "_date":    "16.09.01"
+      "_date":    "16.11.01"
     },
                 {
       "title":    "Member",
