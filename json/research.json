@@ -250,6 +250,13 @@
     }
   ],
   "news": [
+                                                          {
+      "title":    "Contributed talk",
+      "subtitle": "Ninth Workshop Dynamical Systems Applied to Biology and Natural Sciences ,DSABNS 2018, Torino– IT, February 2018",
+      "link":     "",
+      "type":     "Event",
+      "_date":    "18.02.07"
+    }, 
     {
       "title":    "Research assistant on “Spatiotemporal and Stochastic Simulation Studies of Calcium Channels Effects in Endocrine Cells”",
       "subtitle": "Università degli Studi di Padova, 15/03/2017-present",
