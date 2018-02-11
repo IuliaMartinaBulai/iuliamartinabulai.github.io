@@ -250,9 +250,16 @@
     }
   ],
   "news": [
+                                                              {
+      "title":    "Contributed talk",
+      "subtitle": "Convegno e Assemblea GNCS 2018, Montecatini Terme– IT, February 2018",
+      "link":     "",
+      "type":     "Event",
+      "_date":    "18.02.14"
+    }, 
                                                           {
       "title":    "Contributed talk",
-      "subtitle": "Ninth Workshop Dynamical Systems Applied to Biology and Natural Sciences ,DSABNS 2018, Torino– IT, February 2018",
+      "subtitle": "Ninth Workshop Dynamical Systems Applied to Biology and Natural Sciences, DSABNS 2018, Torino– IT, February 2018",
       "link":     "",
       "type":     "Event",
       "_date":    "18.02.07"
@@ -368,7 +375,7 @@
     },
                                                   {
       "title":    "Contributed talk",
-      "subtitle": "DSABNS, Évora – PT, January-February 2017",
+      "subtitle": "Eighth Workshop Dynamical Systems Applied to Biology and Natural Sciences, DSABNS 2017, Évora – PT, January-February 2017",
       "link":     "",
       "type":     "Event",
       "_date":    "17.02.01"
