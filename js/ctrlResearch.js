@@ -149,7 +149,6 @@ app.controller('researchCtrl', function($scope, $rootScope, $routeParams, $locat
     title:    "Home",
     teaser:   true,
     painter:  function(db) {
-              let shortbio = db.publications.concat(db.news);
                 let highlighs = partitionDates(db.news, function(x) {
                   return ["Prize", "Project"].includes(x.type);
                 });
@@ -164,11 +163,6 @@ app.controller('researchCtrl', function($scope, $rootScope, $routeParams, $locat
                   return ["Lecture Notes", "Submitted Preprints", "Prize", "Project"].includes(x.type) ? [] : [getDate(x), getYear(x)];
                 });
                 return [
-                     {
-                    title:      "Short Bio",
-                    items:      shortbio,
-                    _template:  "section"
-                  },
                   {
                     title:      "News Highlights",
                     items:      highlighs,
