@@ -149,12 +149,13 @@ app.controller('researchCtrl', function($scope, $rootScope, $routeParams, $locat
     title:    "Home",
     teaser:   true,
     painter:  function(db) {
-                      let shortbio = [];
-                for (const d of db.type) shortbio.push({text: d.abstract});
-                addByKeyword(shortbio, db.publications, true, formatPublication, function(x) {
-                  return [x.type];
-                });
-                return shortbio;
+                for (let d of db.shortbio) {
+                  d._template = "box";
+                  d._color = "#c9f2c9";
+                  d._dim = boxHeight(d.text);
+                  d._show = true;
+                }
+                return db.shortbio;
       
    
                 let highlighs = partitionDates(db.news, function(x) {
