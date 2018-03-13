@@ -149,13 +149,6 @@ app.controller('researchCtrl', function($scope, $rootScope, $routeParams, $locat
     title:    "Home",
     teaser:   true,
     painter:  function(db) {
-                for (let d of db.news) {
-                  d._template = "box";
-                  d._color = "#c9f2c9";
-                  d._dim = boxHeight(d.text);
-                  d._show = true;
-                }
-                return db.news;
                 let highlighs = partitionDates(db.news, function(x) {
                   return ["Prize", "Project"].includes(x.type);
                 });
