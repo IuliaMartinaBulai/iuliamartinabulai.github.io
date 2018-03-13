@@ -163,6 +163,17 @@ app.controller('researchCtrl', function($scope, $rootScope, $routeParams, $locat
                   return ["Lecture Notes", "Submitted Preprints", "Prize", "Project"].includes(x.type) ? [] : [getDate(x), getYear(x)];
                 });
                 return [
+                                    {
+                    title:      "Short Bio",
+                    items: [{
+                      title:      "",
+                      main:       db.bio,
+                      _template:  "box",
+                      _color:     "#fff",
+                      _show:      false
+                    }],
+                    _template:  "section"
+                  },
                   {
                     title:      "News Highlights",
                     items:      highlighs,
