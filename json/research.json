@@ -6,6 +6,7 @@
     "Via Gradenigo 6/b,",
     "35131 Padova, Italy"
   ],
+   "bio": "I started programming in <i>Turbo Pascal</i> when I was 7 years old, and since then I have always been fond of informatics and mathematics. During high school, I competed in the <i>International Olympiads in Informatics</i> and in the Italian final selection for the <i>International Olympiads in Mathematics</i>. I then tried to combine these two interests in my bachelor and master studies, opting for a mathematical logic degree with computer science optional courses. After a PhD in mathematical logic (set theory), I finally switched to full-time computer science research.<br><br>As a post-doc in Pisa and Torino, I am working on languages for distributed computing, self-organising systems, games on graphs, speed-up of dynamic programming, compressed data structures and models of human sound perception. Meanwhile, I am teaching the <i>Object-Oriented Programming</i> course in Vercelli, and contributing to the organisation of the <i>Italian Olympiads in Informatics</i>.",
   "topics": [
     {
       "title":    "Spatiotemporal and Stochastic models for endocrine cells",
