@@ -248,9 +248,29 @@
       "abstract": [
         ""
       ]
+    },
+        {
+      "title":    "Herding induced by encounter rate, with predator pressure influencing prey response,
+      "authors":  "H. Laurie, E. Venturino, . M. Bulai",
+      "journal":  "Submitted",
+      "year":     2018,
+      "link":     "",
+      "topic":    "Ecoepidemiological mathematical models",
+      "type":     "Submitted Preprints",
+      "_date":    "18.05.13",
+      "abstract": [
+        ""
+      ]
     }
   ],
   "news": [
+                            {
+      "title":    "SMB grant",
+      "subtitle": "Landahl Travel Grants 2018",
+      "link":     "",
+      "type":     "Grant",
+      "_date":    "18.04.01"
+    },  
                                                                   {
       "title":    "Invited contributed talk",
       "subtitle": "Seminari Padovani di Analisi Numerica SPAN2018, Padova IT, May 2018",
