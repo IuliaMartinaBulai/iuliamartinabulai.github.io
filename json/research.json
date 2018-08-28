@@ -264,6 +264,20 @@
     }
   ],
   "news": [
+                                                                      {
+      "title":    "Contributed talk",
+      "subtitle": "Annual Meeting of the Society for Mathematical Biology and the Japanese Society for Mathematical Biology, Sydney AU, July 2018",
+      "link":     "",
+      "type":     "Event",
+      "_date":    "18.07.8"
+    }, 
+                                {
+      "title":    "Summer school",
+      "subtitle": "Joint CAMBAM/NSERC-CREATE in Complex Dynamics Summer School (McGill University), Montreal CAN, June 2018",
+      "link":     "",
+      "type":     "Event",
+      "_date":    "18.06.18"
+    },  
                             {
       "title":    "SMB grant",
       "subtitle": "Landahl Travel Grants 2018",
