@@ -27,6 +27,58 @@
   ],
   "types": ["Journal Papers", "Book Chapters", "Proceedings", "Submitted Preprints"],
   "publications": [
+                    {
+      "title":    "Modeling the interactions among phythopatogens and phyllosphere microorganisms for the biological disease control of \textit{Olea europaea} L.",
+      "authors":  "P. Baptista, I. M. Bulai, T. Gomes, E. Venturino",
+      "journal":  "Mathematical Biosciences",
+      "year":     2018,
+      "link":     "",
+      "topic":    "Ecoepidemiological mathematical models",
+      "type":     "Journal Papers",
+      "_date":    "18.12.01",
+      "abstract": [
+        ""
+      ]
+    },
+                {
+      "title":    "Human population effects on the Ulsoor lake fish survival",
+      "authors":  "P. K. Tiwari, I. M. Bulai, F. Bona, E. Venturino, A. K. Misra",
+      "journal":  "Journal of Biological Systems",
+      "year":     2018,
+      "link":     "",
+      "topic":    "Wastewater bioremediation",
+      "type":     "Journal Papers",
+      "_date":    "18.11.01",
+      "abstract": [
+        ""
+      ]
+    },
+            {
+      "title":    "Hopf bifurcation analysis of the fast subsystem of a polynomial phantom burster model",
+      "authors":  "I. M. Bulai, M. G. Pedersen",
+      "journal":  "Dolomites Research Notes on Approximation",
+      "year":     2018,
+      "link":     "10.14658/pupj-drna-2018-3-2",
+      "topic":    "Spatiotemporal and Stochastic models for endocrine cells",
+      "type":     "Journal Papers",
+      "_date":    "18.11.01",
+      "abstract": [
+        ""
+      ]
+    },
+        {
+      "title":    "Waste-water bioremediation using white rot fungi: validation of a dynamical system with real data obtained in laboratory",
+      "authors":  "I. M. Bulai, F. Spina, G. C. Varese, E. Venturino",
+      "journal":  "Mathematical Methods in the Applied Sciences",
+      "year":     2018,
+      "link":     "https://doi.org/10.1002/mma.4834",
+      "topic":    "Wastewater bioremediation",
+      "type":     "Journal Papers",
+      "_date":    "18.03.25",
+      "abstract": [
+        ""
+      ]
+    },
     {
       "title":    "Modelling the direct and indirect effects of pollutants on the survival of fish in water bodies",
       "authors":  "P. K. Tiwari, I. M. Bulai, A. K. Misra and E. Venturino",
