@@ -290,6 +290,34 @@
     }
   ],
   "news": [
+                                                                                 {
+      "title":    "Poster",
+      "subtitle": "Winter Workshop on Complex Systems 2019, Zakopane–PL, February 2018",
+      "link":     "",
+      "type":     "Event",
+      "_date":    "19.02.8"
+    }, 
+                                                                             {
+      "title":    "Invited contributed talk",
+      "subtitle": "International Workshop Modeling tools - Survey Meeting of the COST Action FA1405, Torino–IT, Dicember 2018",
+      "link":     "",
+      "type":     "Event",
+      "_date":    "18.12.8"
+    }, 
+                                                                              {
+      "title":    "INdAM grant",
+      "subtitle": "Finanziamento GNCS Giovani Ricercatori 2018–2019, 1200 euro.",
+      "link":     "",
+      "type":     "Event",
+      "_date":    "18.10.8"
+    }, 
+                                                                          {
+      "title":    "Poster",
+      "subtitle": "Nanoscale mathematical modeling of synaptic transmission, calcium dynamics, transduction and cell sensing, Pisa IT, October 2018",
+      "link":     "",
+      "type":     "Event",
+      "_date":    "18.10.8"
+    }, 
                                                                       {
       "title":    "Contributed talk",
       "subtitle": "Annual Meeting of the Society for Mathematical Biology and the Japanese Society for Mathematical Biology, Sydney AU, July 2018",
@@ -304,6 +332,13 @@
       "type":     "Event",
       "_date":    "18.06.18"
     },  
+                                            {
+      "title":    "Financial support",
+      "subtitle": "Financial support to participate at 2018 Joint CAMBAM/NSERC-CREATE in Complex Dynamics Summer School, Montreal–CAN, June 2018",
+      "link":     "",
+      "type":     "Grant",
+      "_date":    "18.06.01"
+    },
                             {
       "title":    "SMB grant",
       "subtitle": "Landahl Travel Grants 2018",
@@ -400,7 +435,7 @@
       "_date":    "13.01.01"
     },
                         {
-      "title":    "INDAM grant",
+      "title":    "INdAM grant",
       "subtitle": "Finanziamento GNCS Giovani Ricercatori 2016/2017",
       "link":     "",
       "type":     "Prize",
@@ -532,12 +567,27 @@
       "type":     "Event",
       "_date":    "16.01.01"
     }, 
+
+                                {
+      "title":    "Financial support",
+      "subtitle": "Financial support to participate at V Southern-Summer School on Mathematical Biology and School on Physics Applications in Biology, San Paolo–BR, January 2016",
+      "link":     "",
+      "type":     "Grant",
+      "_date":    "16.01.01"
+    },
                                                                                               {
       "title":    "Summer school",
       "subtitle": "Computational Harmonic Analysis - with Applications to Signal and Image Processing , Marsiglia – FR, October 2014",
       "link":     "",
       "type":     "Event",
       "_date":    "14.10.01"
+    },
+                            {
+      "title":    "Ph.D scholarship",
+      "subtitle": "Three-year Ph.D scholarship sponsored by the University of Torino, 2014-2017",
+      "link":     "",
+      "type":     "Prize",
+      "_date":    "14.01.01"
     }
   ],
     "teaching": [
