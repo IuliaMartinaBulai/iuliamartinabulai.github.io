@@ -28,7 +28,7 @@
   "types": ["Journal Papers", "Book Chapters", "Proceedings", "Submitted Preprints"],
   "publications": [
                     {
-      "title":    "Modeling the interactions among phythopatogens and phyllosphere microorganisms for the biological disease control of \textit{Olea europaea} L.",
+      "title":    "Modeling the interactions among phythopatogens and phyllosphere microorganisms for the biological disease control of Olea europaea L.",
       "authors":  "P. Baptista, I. M. Bulai, T. Gomes, E. Venturino",
       "journal":  "Mathematical Biosciences",
       "year":     2018,
@@ -71,7 +71,7 @@
       "authors":  "I. M. Bulai, F. Spina, G. C. Varese, E. Venturino",
       "journal":  "Mathematical Methods in the Applied Sciences",
       "year":     2018,
-      "link":     "https://doi.org/10.1002/mma.4834",
+      "link":     "10.1002/mma.4834",
       "topic":    "Wastewater bioremediation",
       "type":     "Journal Papers",
       "_date":    "18.03.25",
