@@ -287,12 +287,58 @@
       "abstract": [
         ""
       ]
+    }, 
+        {
+      "title":    "The interplay between predator interference and infection in eco-epidemiological interactions",
+      "authors":  "I. M. Bulai, F. M. Hilker",
+    "journal":  "Submitted",
+      "year":     2019,
+      "link":     "",
+      "topic":    "Ecoepidemiological mathematical models",
+      "type":     "Submitted Preprints",
+      "_date":    "19.03.01",
+      "abstract": [
+        ""
+      ]
+    },
+            {
+      "title":    "Exploiting Ultrasensitivity for Biomolecular Implementation of a Error-Free Control System",
+      "authors":  "F. Montefusco, I. M. Bulai",
+    "journal":  "Submitted",
+      "year":     2018,
+      "link":     "",
+      "topic":    "Control Theory",
+      "type":     "Submitted Preprints",
+      "_date":    "18.12.01",
+      "abstract": [
+        ""
+      ]
+    },
+                {
+      "title":    "Influence of asymptomatic people on malaria transmission: a mathematical model for a low-transmission area case",
+      "authors":  "I. M. Bulai, S. Depickère, V. Hirata",
+    "journal":  "Submitted",
+      "year":     2019,
+      "link":     "",
+      "topic":    "Ecoepidemiological mathematical models",
+      "type":     "Submitted Preprints",
+      "_date":    "19.01.01",
+      "abstract": [
+        ""
+      ]
     }
   ],
   "news": [
+                                                                                     {
+      "title":    "Poster",
+      "subtitle": "Quantitative Aspects of Membrane Fusion and Fission, Padova–IT, May 2019",
+      "link":     "",
+      "type":     "Event",
+      "_date":    "19.05.4"
+    }, 
                                                                                  {
       "title":    "Poster",
-      "subtitle": "Winter Workshop on Complex Systems 2019, Zakopane–PL, February 2018",
+      "subtitle": "Winter Workshop on Complex Systems 2019, Zakopane–PL, February 2019",
       "link":     "",
       "type":     "Event",
       "_date":    "19.02.8"
