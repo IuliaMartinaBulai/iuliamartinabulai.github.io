@@ -28,6 +28,33 @@
   ],
   "types": ["Journal Papers", "Book Chapters", "Proceedings", "Submitted Preprints"],
   "publications": [
+    
+                           {
+      "title":    "Stopping waves: Geometric analysis of coupled bursters in an asymmetric excitation field",
+      "authors":  "I. M. Bulai, M. G. Pedersen",
+      "journal":  "Nonlinear Dynamics",
+      "year":     2019,
+      "link":     "10.1007/s11071-019-04895-w",
+      "topic":    "Spatiotemporal and Stochastic models for endocrine cells",
+      "type":     "Journal Papers",
+      "_date":    "19.03.01",
+      "abstract": [
+        ""
+      ]
+    },
+                       {
+      "title":    "Can aphids be controlled by fungus? A mathematical model",
+      "authors":  "N. Britton, I. M. Bulai, S. Saussure, N. Holst, E. Venturino",
+      "journal":  "Applied Mathematics and Nonlinear Sciences",
+      "year":     2019,
+      "link":     "10.2478/AMNS.2019.1.00009",
+      "topic":    "Ecoepidemiological mathematical models",
+      "type":     "Journal Papers",
+      "_date":    "19.03.01",
+      "abstract": [
+        ""
+      ]
+    },
                     {
       "title":    "Modeling the interactions among phythopatogens and phyllosphere microorganisms for the biological disease control of Olea europaea L.",
       "authors":  "P. Baptista, I. M. Bulai, T. Gomes, E. Venturino",
@@ -262,19 +289,6 @@
         ""
       ]
     },
-    {
-      "title":    "Stopping waves: Geometric analysis of coupled bursters in an asymmetric excitation field",
-      "authors":  "I. M. Bulai, M. G. Pedersen",
-    "journal":  "Submitted",
-      "year":     2017,
-      "link":     "",
-      "topic":    "Spatiotemporal and Stochastic models for endocrine cells",
-      "type":     "Submitted Preprints",
-      "_date":    "16.01.01",
-      "abstract": [
-        ""
-      ]
-    },
         {
       "title":    "Herding induced by encounter rate, with predator pressure influencing prey response",
       "authors":  "H. Laurie, E. Venturino, I. M. Bulai",
@@ -329,6 +343,13 @@
     }
   ],
   "news": [
+                    {
+      "title":    "Member",
+      "subtitle": "Complex Systems Society, 2019-present",
+      "link":     "",
+      "type":     "Event",
+      "_date":    "19.01.01"
+    },
                                                                                      {
       "title":    "Poster",
       "subtitle": "Quantitative Aspects of Membrane Fusion and Fission, Padova–IT, May 2019",
@@ -336,6 +357,13 @@
       "type":     "Event",
       "_date":    "19.05.4"
     }, 
+                    {
+      "title":    "Member",
+      "subtitle": "Biophysical Society, 2019-present",
+      "link":     "",
+      "type":     "Event",
+      "_date":    "19.01.01"
+    },
                                                                                  {
       "title":    "Poster",
       "subtitle": "Winter Workshop on Complex Systems 2019, Zakopane–PL, February 2019",
