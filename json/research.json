@@ -28,14 +28,14 @@
   "types": ["Journal Papers", "Book Chapters", "Proceedings", "Submitted Preprints"],
   "publications": [
                                {
-      "title":    "SEco-epidemiological interactions with predator interference and infection.",
+      "title":    "Eco-epidemiological interactions with predator interference and infection.",
       "authors":  "I. M. Bulai, F. Hilker",
       "journal":  "Theor Popul Biol",
       "year":     2019,
       "link":     "",
       "topic":    "Ecoepidemiological mathematical models",
       "type":     "Journal Papers",
-      "_date":    "06.08.19",
+      "_date":    "19.08.06",
       "abstract": [
         ""
       ]
