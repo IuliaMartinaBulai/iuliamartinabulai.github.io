@@ -1,9 +1,9 @@
 {
   "address": [
-    "Research Fellow (RTDa) @ Ufficio,",
+    "Research Fellow (RTDa),",
     "<a href=\"http://dimie.unibas.it/site/home.html#\">Department of Mathematics, Informatics and Economics</a>,",
     "<a href=\"http://portale.unibas.it/site/home.html\">University of Basilicata</a>,",
-    "{Viale dell'Ateneo Lucano, 10, ",
+    "Viale dell'Ateneo Lucano, 10, ",
     "85100 Potenza, Italy"
   ],
    "bio": "I am a Research Fellow (RTDa) at the University of Basilicata, Department of Mathematics, Informatics and Economics. <br><br>  I was a  Post Doc at the University of Padova working at the project 'Next- generation modeling of wave and network properties in pancreatic islets' under the supervision of Prof. Morten Gram Pedersen, since March 2017.  <br><br> I have completed my PhD in mathematics at the University of Torino in February 2017, under the supervision of Prof. Ezio Venturino. <br><br> I have completed my Master of Science in Mathematics at the University of Torino under the supervision of Prof. Elena Cordero (2013). Also I have complete my Bachelor’s degree in Mathematics at the University of Torino (2011). <br><br>My research area of interest includes: Electrical activity in endocrine cells;  Eco-epidemiological mathematical models; Wastewater bioremediation; Mathematical modelling; Biological systems; Applied mathematics.",
@@ -27,6 +27,19 @@
   ],
   "types": ["Journal Papers", "Book Chapters", "Proceedings", "Submitted Preprints"],
   "publications": [
+                               {
+      "title":    "SEco-epidemiological interactions with predator interference and infection.",
+      "authors":  "I. M. Bulai, F. Hilker",
+      "journal":  "Theor Popul Biol",
+      "year":     2019,
+      "link":     "",
+      "topic":    "Ecoepidemiological mathematical models",
+      "type":     "Journal Papers",
+      "_date":    "06.08.19",
+      "abstract": [
+        ""
+      ]
+    },
     
                            {
       "title":    "Stopping waves: geometric analysis of coupled bursters in an asymmetric excitation field",
@@ -342,6 +355,13 @@
     }
   ],
   "news": [
+                                                                          {
+      "title":    "Contributed talk",
+      "subtitle": "Annual Meeting of the Society for Mathematical Biology and the Japanese Society for Mathematical Biology, Montreal CAN, July 2019",
+      "link":     "",
+      "type":     "Event",
+      "_date":    "19.07.20"
+    }, 
                     {
       "title":    "Member",
       "subtitle": "Complex Systems Society, 2019-present",
