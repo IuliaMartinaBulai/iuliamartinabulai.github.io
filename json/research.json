@@ -343,6 +343,13 @@
     }
   ],
   "news": [
+                                {
+      "title":    "SMB grant",
+      "subtitle": "Landahl Travel Grants 2019, 500 USD",
+      "link":     "",
+      "type":     "Grant",
+      "_date":    "19.06.20"
+    },  
                                                                           {
       "title":    "Contributed talk",
       "subtitle": "Annual Meeting of the Society for Mathematical Biology, Montreal CAN, July 2019",
