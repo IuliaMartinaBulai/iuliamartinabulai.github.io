@@ -304,38 +304,26 @@
         {
       "title":    "Herding induced by encounter rate, with predator pressure influencing prey response",
       "authors":  "H. Laurie, E. Venturino, I. M. Bulai",
-      "journal":  "Submitted",
+      "journal":  "Dynamical Systems in Biology and Natural Sciences (Springer-SIMAI series)",
       "year":     2018,
       "link":     "",
       "topic":    "Ecoepidemiological mathematical models",
-      "type":     "Submitted Preprints",
-      "_date":    "18.05.13",
+      "type":     "Book Chapters",
+      "_date":    "19.05.13",
       "abstract": [
         ""
       ]
     }, 
-        {
-      "title":    "The interplay between predator interference and infection in eco-epidemiological interactions",
-      "authors":  "I. M. Bulai, F. M. Hilker",
-    "journal":  "Submitted",
-      "year":     2019,
-      "link":     "",
-      "topic":    "Ecoepidemiological mathematical models",
-      "type":     "Submitted Preprints",
-      "_date":    "19.03.01",
-      "abstract": [
-        ""
-      ]
-    },
+
             {
-      "title":    "Exploiting Ultrasensitivity for Biomolecular Implementation of a Error-Free Control System",
+      "title":    "Exploiting Ultrasensitivity for Biomolecular Implementation of a Control System without Error Detection",
       "authors":  "F. Montefusco, I. M. Bulai",
-    "journal":  "Submitted",
+    "journal":  "8th IFAC Conference on Foundations of Systems Biology in Engineering",
       "year":     2018,
       "link":     "",
       "topic":    "Control Theory",
-      "type":     "Submitted Preprints",
-      "_date":    "18.12.01",
+      "type":     "Proceedings",
+      "_date":    "19.06.01",
       "abstract": [
         ""
       ]
@@ -357,7 +345,7 @@
   "news": [
                                                                           {
       "title":    "Contributed talk",
-      "subtitle": "Annual Meeting of the Society for Mathematical Biology and the Japanese Society for Mathematical Biology, Montreal CAN, July 2019",
+      "subtitle": "Annual Meeting of the Society for Mathematical Biology, Montreal CAN, July 2019",
       "link":     "",
       "type":     "Event",
       "_date":    "19.07.20"
