@@ -343,21 +343,21 @@
     }
   ],
   "news": [
-                                    {
-      "title":    "Research Fellow (RTDa) at the University of Basilicata, Department of Mathematics, Informatics and Economics",
-      "subtitle": "31.07.2019-1.08.2022",
+      {
+      "title":    "Research Fellow (RTDa)",
+      "subtitle": "University of Basilicata, Department of Mathematics, Informatics and Economics, 31.07.2019-1.08.2022",
       "link":     "",
-      "type":     "Event",
+      "type":     "Position",
       "_date":    "19.07.30"
     }, 
-                                {
+      {
       "title":    "SMB grant",
       "subtitle": "Landahl Travel Grants 2019, 500 USD",
       "link":     "",
       "type":     "Grant",
       "_date":    "19.06.20"
     },  
-                                                                          {
+      {
       "title":    "Contributed talk",
       "subtitle": "Annual Meeting of the Society for Mathematical Biology, Montreal CAN, July 2019",
       "link":     "",
@@ -365,8 +365,8 @@
       "_date":    "19.07.20"
     }, 
        {
-      "title":    "Post Doc at the University of Padova, Department of Information Engineering",
-      "subtitle": " 15.03.2017-14.03.2019",
+      "title":    "Post Doc",
+      "subtitle": "University of Padova, Department of Information Engineering, 15.03.2017-14.03.2019",
       "link":     "",
       "type":     "Position",
       "_date":    "19.03.15"
@@ -471,8 +471,8 @@
     }, 
     {
     {
-      "title":    "Post Doc at the University of Padova, Department of Information Engineering,",
-      "subtitle": " 15.03.2019-30.07.2019",
+      "title":    "Post Doc",
+      "subtitle": "University of Padova, Department of Information Engineering, 15.03.2019-30.07.2019",
       "link":     "",
       "type":     "Position",
       "_date":    "17.03.15"
