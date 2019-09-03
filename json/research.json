@@ -28,11 +28,11 @@
   "types": ["Journal Papers", "Book Chapters", "Proceedings", "Submitted Preprints"],
   "publications": [
                                {
-      "title":    "Eco-epidemiological interactions with predator interference and infection.",
+      "title":    "Eco-epidemiological interactions with predator interference and infection",
       "authors":  "I. M. Bulai, F. Hilker",
       "journal":  "Theor Popul Biol",
       "year":     2019,
-      "link":     "",
+      "link":     "https://doi.org/10.1016/j.tpb.2019.07.016",
       "topic":    "Ecoepidemiological mathematical models",
       "type":     "Journal Papers",
       "_date":    "19.08.06",
@@ -343,6 +343,13 @@
     }
   ],
   "news": [
+                                    {
+      "title":    "Research Fellow (RTDa) at the University of Basilicata, Department of Mathematics, Informatics and Economics",
+      "subtitle": "31.07.2019-1.08.2022",
+      "link":     "",
+      "type":     "Event",
+      "_date":    "19.07.30"
+    }, 
                                 {
       "title":    "SMB grant",
       "subtitle": "Landahl Travel Grants 2019, 500 USD",
@@ -354,8 +361,15 @@
       "title":    "Contributed talk",
       "subtitle": "Annual Meeting of the Society for Mathematical Biology, Montreal CAN, July 2019",
       "link":     "",
-      "type":     "Event",
+      "type":     "Position",
       "_date":    "19.07.20"
+    }, 
+       {
+      "title":    "Post Doc at the University of Padova, Department of Information Engineering",
+      "subtitle": " 15.03.2017-14.03.2019",
+      "link":     "",
+      "type":     "Position",
+      "_date":    "19.03.15"
     }, 
                     {
       "title":    "Member",
@@ -364,91 +378,91 @@
       "type":     "Event",
       "_date":    "19.01.01"
     },
-                                                                                     {
+       {
       "title":    "Poster",
       "subtitle": "Quantitative Aspects of Membrane Fusion and Fission, Padova–IT, May 2019",
       "link":     "",
       "type":     "Event",
       "_date":    "19.05.4"
     }, 
-                    {
+       {
       "title":    "Member",
       "subtitle": "Biophysical Society, 2019-present",
       "link":     "",
       "type":     "Event",
       "_date":    "19.01.01"
     },
-                                                                                 {
+       {
       "title":    "Poster",
       "subtitle": "Winter Workshop on Complex Systems 2019, Zakopane–PL, February 2019",
       "link":     "",
       "type":     "Event",
       "_date":    "19.02.8"
     }, 
-                                                                             {
+       {
       "title":    "Invited contributed talk",
       "subtitle": "International Workshop Modeling tools - Survey Meeting of the COST Action FA1405, Torino–IT, Dicember 2018",
       "link":     "",
       "type":     "Event",
       "_date":    "18.12.8"
     }, 
-                                                                              {
+       {
       "title":    "INdAM grant",
       "subtitle": "Finanziamento GNCS Giovani Ricercatori 2018–2019, 1200 euro",
       "link":     "",
       "type":     "Grant",
       "_date":    "18.10.8"
     }, 
-                                                                          {
+        {
       "title":    "Poster",
       "subtitle": "Nanoscale mathematical modeling of synaptic transmission, calcium dynamics, transduction and cell sensing, Pisa IT, October 2018",
       "link":     "",
       "type":     "Event",
       "_date":    "18.10.8"
     }, 
-                                                                      {
+      {
       "title":    "Contributed talk",
       "subtitle": "Annual Meeting of the Society for Mathematical Biology and the Japanese Society for Mathematical Biology, Sydney AU, July 2018",
       "link":     "",
       "type":     "Event",
       "_date":    "18.07.8"
     }, 
-                                {
+     {
       "title":    "Summer school",
       "subtitle": "Joint CAMBAM/NSERC-CREATE in Complex Dynamics Summer School (McGill University), Montreal CAN, June 2018",
       "link":     "",
       "type":     "Event",
       "_date":    "18.06.18"
     },  
-                                            {
+       {
       "title":    "Financial support",
       "subtitle": "Financial support to participate at 2018 Joint CAMBAM/NSERC-CREATE in Complex Dynamics Summer School, Montreal–CAN, June 2018",
       "link":     "",
       "type":     "Grant",
       "_date":    "18.06.01"
     },
-                            {
+     {
       "title":    "SMB grant",
       "subtitle": "Landahl Travel Grants 2018, 750 USD",
       "link":     "",
       "type":     "Grant",
       "_date":    "18.04.01"
     },  
-                                                                  {
+      {
       "title":    "Invited contributed talk",
       "subtitle": "Seminari Padovani di Analisi Numerica SPAN2018, Padova IT, May 2018",
       "link":     "",
       "type":     "Event",
       "_date":    "18.05.4"
     }, 
-                                                              {
+     {
       "title":    "Invited contributed talk",
       "subtitle": "Convegno e Assemblea GNCS 2018, Montecatini Terme– IT, February 2018",
       "link":     "",
       "type":     "Event",
       "_date":    "18.02.14"
     }, 
-                                                          {
+       {
       "title":    "Contributed talk",
       "subtitle": "Ninth Workshop Dynamical Systems Applied to Biology and Natural Sciences, DSABNS 2018, Torino– IT, February 2018",
       "link":     "",
@@ -456,11 +470,13 @@
       "_date":    "18.02.07"
     }, 
     {
-      "title":    "Research assistant on “Spatiotemporal and Stochastic Simulation Studies of Calcium Channels Effects in Endocrine Cells”",
-      "subtitle": "Università degli Studi di Padova, 15/03/2017-present",
+    {
+      "title":    "Post Doc at the University of Padova, Department of Information Engineering,",
+      "subtitle": " 15.03.2019-30.07.2019",
+      "link":     "",
       "type":     "Position",
       "_date":    "17.03.15"
-    },
+    }, 
                                 {
       "title":    "SMB grant",
       "subtitle": "SMB Financial Aid Grant BIOMATH 2016",
