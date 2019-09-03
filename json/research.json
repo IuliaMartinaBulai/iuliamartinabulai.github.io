@@ -27,7 +27,7 @@
   ],
   "types": ["Journal Papers", "Book Chapters", "Proceedings", "Submitted Preprints"],
   "publications": [
-                               {
+      {
       "title":    "Eco-epidemiological interactions with predator interference and infection",
       "authors":  "I. M. Bulai, F. Hilker",
       "journal":  "Theor Popul Biol",
@@ -41,7 +41,7 @@
       ]
     },
     
-                           {
+      {
       "title":    "Stopping waves: geometric analysis of coupled bursters in an asymmetric excitation field",
       "authors":  "I. M. Bulai, M. G. Pedersen",
       "journal":  "Nonlinear Dynamics",
@@ -54,7 +54,7 @@
         ""
       ]
     },
-                       {
+      {
       "title":    "Can aphids be controlled by fungus? A mathematical model",
       "authors":  "N. Britton, I. M. Bulai, S. Saussure, N. Holst, E. Venturino",
       "journal":  "Applied Mathematics and Nonlinear Sciences",
