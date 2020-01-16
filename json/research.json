@@ -47,7 +47,7 @@
       "journal":  "IFAC-PapersOnLine",
       "year":     2019,
       "link":     "10.1016/j.ifacol.2019.12.250",
-      "topic":    "Numerical analysis",
+      "topic":    "Control Theory",
       "type":     "Proceedings",
       "_date":    "19.12.26",
       "abstract": [
@@ -338,33 +338,6 @@
       "topic":    "Ecoepidemiological mathematical models",
       "type":     "Book Chapters",
       "_date":    "19.05.13",
-      "abstract": [
-        ""
-      ]
-    }, 
-
-            {
-      "title":    "Exploiting Ultrasensitivity for Biomolecular Implementation of a Control System without Error Detection",
-      "authors":  "F. Montefusco, I. M. Bulai",
-    "journal":  "8th IFAC Conference on Foundations of Systems Biology in Engineering",
-      "year":     2018,
-      "link":     "",
-      "topic":    "Control Theory",
-      "type":     "Proceedings",
-      "_date":    "19.06.01",
-      "abstract": [
-        ""
-      ]
-    },
-                {
-      "title":    "Influence of asymptomatic people on malaria transmission: a mathematical model for a low-transmission area case",
-      "authors":  "I. M. Bulai, S. Depickère, V. Hirata",
-    "journal":  "Submitted",
-      "year":     2019,
-      "link":     "",
-      "topic":    "Ecoepidemiological mathematical models",
-      "type":     "Submitted Preprints",
-      "_date":    "19.01.01",
       "abstract": [
         ""
       ]
