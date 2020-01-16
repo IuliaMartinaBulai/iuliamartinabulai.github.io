@@ -47,7 +47,7 @@
       "journal":  "IFAC-PapersOnLine",
       "year":     2019,
       "link":     "10.1016/j.ifacol.2019.12.250",
-      "topic":    "Control Theory",
+      "topic":    "Numerical analysis",
       "type":     "Proceedings",
       "_date":    "19.12.26",
       "abstract": [
@@ -344,12 +344,34 @@
     }
   ],
   "news": [
+ 
+         {
+      "title":    "Invited contributed talk",
+      "subtitle": "Convegno e Assemblea GNCS 2020, Montecatini Terme– IT, February 2020",
+      "link":     "",
+      "type":     "Event",
+      "_date":    "20.02.11"
+    }, 
+               {
+      "title":    "Participant",
+      "subtitle": "Winter Workshop on Complex Systems 2020, Gruyère–CH, January 2020",
+      "link":     "",
+      "type":     "Event",
+      "_date":    "20.01.27"
+    },
       {
       "title":    "Research Fellow (RTDa)",
       "subtitle": "University of Basilicata, Department of Mathematics, Informatics and Economics, 31.07.2019-1.08.2022",
       "text":     [""],
       "type":     "Position",
       "_date":    "19.07.30"
+    }, 
+          {
+      "title":    "SNSF grant",
+      "subtitle": "Travel Grants 2020, 200 CHF",
+      "link":     "",
+      "type":     "Grant",
+      "_date":    "20.01.28"
     }, 
       {
       "title":    "SMB grant",
@@ -394,7 +416,7 @@
       "_date":    "19.01.01"
     },
        {
-      "title":    "Poster",
+      "title":    "Poster and participant",
       "subtitle": "Winter Workshop on Complex Systems 2019, Zakopane–PL, February 2019",
       "link":     "",
       "type":     "Event",
