@@ -27,6 +27,21 @@
   ],
   "types": ["Journal Papers", "Book Chapters", "Proceedings", "Submitted Preprints"],
   "publications": [
+    
+          {
+      "title":    "Influence of asymptomatic people on malaria transmission: a mathematical model for a low-transmission area case",
+      "authors":  "I. M. Bulai, S. Depickere, V.Hirata",
+      "journal":  "Journal of Biological Systems",
+      "year":     2020,
+      "link":     "to appear",
+      "topic":    "Ecoepidemiological mathematical models",
+      "type":     "Journal Papers",
+      "_date":    "20.01.16",
+      "abstract": [
+        ""
+      ]
+    },
+    
       {
       "title":    "Eco-epidemiological interactions with predator interference and infection",
       "authors":  "I. M. Bulai, F. Hilker",
