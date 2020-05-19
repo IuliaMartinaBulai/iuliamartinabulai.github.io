@@ -181,7 +181,7 @@ app.controller('researchCtrl', function($scope, $rootScope, $routeParams, $locat
                     _template:  "section"
                   },*/ {
                     title:      "Live Updates",
-                    items:      highlighs,
+                    items:     [{ highlighs, updates}],
                     maxlen:     10,
                     _template:  "section"
                   }
