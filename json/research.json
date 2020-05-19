@@ -344,6 +344,36 @@
     }
   ],
   "news": [
+                        {
+      "title":    "Editorial Activity",
+      "subtitle": "Reviewer for: Applied Mathematics and Computation (AMC)",
+      "type":     "Position",
+      "_date":    "20.01.01"
+    },
+                    {
+      "title":    "Editorial Activity",
+      "subtitle": "Reviewer for: Biometrical Journal (Biom. J)",
+      "type":     "Position",
+      "_date":    "20.01.01"
+    },
+                {
+      "title":    "Editorial Activity",
+      "subtitle": "Reviewer for: BioSystems, Mathematics and Computers in Simulation (MATCOM)",
+      "type":     "Position",
+      "_date":    "20.01.01"
+    },
+            {
+      "title":    "Editorial Activity",
+      "subtitle": "Reviewer for: Advances in Difference Equations (AIDE)",
+      "type":     "Position",
+      "_date":    "19.01.01"
+    },
+        {
+      "title":    "Editorial Activity",
+      "subtitle": "Reviewer for: Nonlinear Dynamics (NODY)",
+      "type":     "Position",
+      "_date":    "19.01.01"
+    },
            {
       "title":    "INdAM - GNCS Project 2020: research grant",
       "subtitle": "Research project (as member of RITA), 2020–2021, 6400 euro",
