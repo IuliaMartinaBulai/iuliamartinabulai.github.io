@@ -174,14 +174,15 @@ app.controller('researchCtrl', function($scope, $rootScope, $routeParams, $locat
                     }],
                     _template:  "section"
                   },
+                   /*
                   {
                     title:      "News Highlights",
                     items:      highlighs,
                     _template:  "section"
-                  },{
+                  },*/ {
                     title:      "Live Updates",
                     items:      updates,
-                    maxlen:     1,
+                    maxlen:     10,
                     _template:  "section"
                   }
                 ];
