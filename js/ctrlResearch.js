@@ -150,10 +150,10 @@ app.controller('researchCtrl', function($scope, $rootScope, $routeParams, $locat
     teaser:   true,
     painter:  function(db) {
                let highlighs = partitionDates(db.news, function(x) {
-                  return ["Prize", "Project", "Grant"].includes(x.type);
+                  return ["Lecture Notes", "Submitted Preprints","Prize", "Project", "Grant"].includes(x.type);
                 });
                 addByKeyword(highlighs, db.news, false, formatOther, function(x) {
-                  return ["Prize", "Project", "Grant"].includes(x.type) ? [getDate(x), getYear(x)] : [];
+                  return ["Lecture Notes", "Submitted Preprints","Prize", "Project", "Grant"].includes(x.type) ? [getDate(x), getYear(x)] : [];
                 }); 
                 let data = db.publications.concat(db.news); 
                 let updates = partitionDates(data, function(x) {
