@@ -33,7 +33,7 @@
       "authors":  "I. M. Bulai, S. Depickere, V.Hirata",
       "journal":  "Journal of Biological Systems",
       "year":     2020,
-      "link":     "to appear",
+      "link":     "https://doi.org/10.1142/S0218339020500072",
       "topic":    "Ecoepidemiological mathematical models",
       "type":     "Journal Papers",
       "_date":    "20.01.16",
@@ -344,9 +344,45 @@
     }
   ],
   "news": [
+           {
+      "title":    "INdAM - GNCS Project 2020: research grant",
+      "subtitle": "Research project (as member of RITA), 2020–2021, 6400 euro",
+      "link":     "",
+      "type":     "Grant",
+      "_date":    "20.03.1"
+    }, 
+                                    {
+      "title":    "Member",
+      "subtitle": "Member of Unione Matematica Italiana, UMI, 2020-present",
+      "link":     "",
+      "type":     "Event",
+      "_date":    "20.01.01"
+    },
+                                {
+      "title":    "Member",
+      "subtitle": "Member of Società Italiana di Matematica Applicata e Industriale, SIMAI, 2020-present",
+      "link":     "",
+      "type":     "Event",
+      "_date":    "20.01.01"
+    },
+                            {
+      "title":    "Member",
+      "subtitle": "Member of Research ITalian network on Approximation, RITA, 2019-present",
+      "link":     "",
+      "type":     "Event",
+      "_date":    "19.01.01"
+    },
+   
+                        {
+      "title":    "Member",
+      "subtitle": "Member of European Women in Mathematics, EWM, 2019-present",
+      "link":     "",
+      "type":     "Event",
+      "_date":    "19.01.01"
+    },
     
         {
-      "title":    "Complementi di Calcolo scientifico. Bachelor in Mathematics, Unibas, Potenza",
+      "title":    "Corso Complementi di Calcolo scientifico. Bachelor in Mathematics, Unibas, Potenza",
       "subtitle": "Unibas, 2019/2020",
       "type":     "Position",
       "_date":    "20.03.01"
