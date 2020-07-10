@@ -242,6 +242,20 @@ app.controller('researchCtrl', function($scope, $rootScope, $routeParams, $locat
                 }
                 return db.teaching;
               }
+  },{
+    /*------------------------------
+      media page
+    ------------------------------*/
+    title:    "Media",
+    painter:  function(db) {
+                for (let d of db.media) {
+                  d._template = "box";
+                  d._color = "#c9f2c9";
+                  d._dim = boxHeight(d.text);
+                  d._show = true;
+                }
+                return db.media;
+              }
   }];
   $rootScope.pageSet($scope, $location, $http, $sce, $routeParams.page, def, pages);
 });
