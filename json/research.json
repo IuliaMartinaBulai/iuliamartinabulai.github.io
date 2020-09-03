@@ -344,7 +344,21 @@
     }
   ],
   "news": [
-                        {
+              {
+      "title":    "Research grant",
+      "subtitle": "RIL Grant 2020, 960 EUR",
+      "link":     "",
+      "type":     "Grant",
+      "_date":    "20.06.1"
+    }, 
+          {
+      "title":    "Poster",
+      "subtitle": "Virtual Annual Meeting of the Society for Mathematical Biology, August 2020",
+      "link":     "",
+      "type":     "Event",
+      "_date":    "20.08.17"
+    }, 
+      {
       "title":    "Editorial Activity",
       "subtitle": "Reviewer for: Applied Mathematics and Computation (AMC)",
       "type":     "Position",
