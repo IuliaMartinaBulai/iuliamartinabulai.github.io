@@ -344,6 +344,47 @@
     }
   ],
   "news": [
+                {
+      "title":    "Editorial Activity",
+      "subtitle": "Reviewer for: Mathematics (MDPI)",
+      "type":     "Position",
+      "_date":    "20.09.01"
+    },
+                 {
+      "title":    "Contributed talk",
+      "subtitle": "Virtual 20th International Symposium on Mathematical and Computational Biology, BIOMAT, November 2020",
+      "link":     "",
+      "type":     "Event",
+      "_date":    "20.11.01"
+    },
+                                        {
+      "title":    "Visiting position",
+      "subtitle": " Medical Image Processing Lab, The lab is jointly between the EPFL and the University of Geneva. October-Dicember 2020",
+      "link":     "",
+      "type":     "Event",
+      "_date":    "20.10.01"
+    },
+             {
+      "title":    "Invited contributed talk",
+      "subtitle": "Virtual Advances in Differential Equations and Numerical Analysis, ADENA, October 2020",
+      "link":     "",
+      "type":     "Event",
+      "_date":    "20.10.12"
+    },
+           {
+      "title":    "INdAM grant",
+      "subtitle": "Finanziamento GNCS Giovani Ricercatori 2020–2021, 1500 euro",
+      "link":     "",
+      "type":     "Grant",
+      "_date":    "20.10.1"
+    }, 
+     {
+      "title":    "Member",
+      "subtitle": "Member of Teoria dell’ Approssimazione e Applicazioni, T.A.A., 2020-present",
+      "link":     "",
+      "type":     "Event",
+      "_date":    "20.06.01"
+    },
               {
       "title":    "RIL Grant (ricerca scientifica di interesse locale)",
       "subtitle": " Research grant 2020-2022, 960 EUR",
