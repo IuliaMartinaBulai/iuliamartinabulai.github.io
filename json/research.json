@@ -344,6 +344,27 @@
     }
   ],
   "news": [
+                     {
+      "title":    " Steering Committee member",
+      "subtitle": "Member of the Steering Committee for Conference on Complex Systems, CCS, 2020-2023",
+      "link":     "",
+      "type":     "Position",
+      "_date":    "20.12.01"
+    }, 
+                 {
+      "title":    "Council member",
+      "subtitle": "Council member of Complex System Society, CCS, 2020-2023",
+      "link":     "",
+      "type":     "Position",
+      "_date":    "20.12.01"
+    }, 
+              {
+      "title":    "Poster",
+      "subtitle": "Virtual Annual Conference on Complex Systems (ECCS or CCS), Dicembre 2020",
+      "link":     "",
+      "type":     "Event",
+      "_date":    "20.12.07"
+    }, 
                 {
       "title":    "Editorial Activity",
       "subtitle": "Reviewer for: Mathematics (MDPI)",
@@ -359,7 +380,7 @@
     },
                                         {
       "title":    "Visiting position",
-      "subtitle": " Medical Image Processing Lab, The lab is jointly between the EPFL and the University of Geneva. October-Dicember 2020",
+      "subtitle": " Medical Image Processing Lab, The lab is jointly between the EPFL and the University of Geneva. October 2020 in presence and November-March smart-working",
       "link":     "",
       "type":     "Event",
       "_date":    "20.10.01"
