@@ -27,6 +27,32 @@
   ],
   "types": ["Journal Papers", "Book Chapters", "Proceedings", "Submitted Preprints"],
   "publications": [
+                  {
+      "title":    "Modeling COVID-19 Considering Asymptomatic Cases and Avoided Contacts.",
+      "authors":  "I. M. Bulai",
+      "journal":  "To appear in Trends in Biomathematics: Modeling, Optimization and Computational Problems,",
+      "year":     2021,
+      "link":     "",
+      "topic":    "Ecoepidemiological mathematical models",
+      "type":     "Book Chapters",
+      "_date":    "21.02.19",
+      "abstract": [
+        ""
+      ]
+    },
+              {
+      "title":    "A mathematical modeling approach to assess biological control of an orange tree disease.",
+      "authors":  "I. M. Bulai, A. C. Esteves, F. Lima, E. Venturino",
+      "journal":  "To appear in Applied Mathematics Letters",
+      "year":     2021,
+      "link":     "",
+      "topic":    "Ecoepidemiological mathematical models",
+      "type":     "Journal Papers",
+      "_date":    "21.02.19",
+      "abstract": [
+        ""
+      ]
+    },
     
           {
       "title":    "Influence of asymptomatic people on malaria transmission: a mathematical model for a low-transmission area case",
