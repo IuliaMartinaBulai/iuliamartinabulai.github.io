@@ -370,12 +370,26 @@
     }
   ],
   "news": [
+                       {
+      "title":    "Talk",
+      "subtitle": "Virtual SMB Mathematical Epidemiology and Math Education Joint Workshop, February 2021",
+      "link":     "",
+      "type":     "Event",
+      "_date":    "21.01.07"
+    },
+                   {
+      "title":    "Participant",
+      "subtitle": "Virtual Winter Workshop on Complex Systems, February 2021",
+      "link":     "",
+      "type":     "Event",
+      "_date":    "21.02.01"
+    },
                      {
       "title":    " Steering Committee member",
       "subtitle": "Member of the Steering Committee for Conference on Complex Systems, CCS, 2020-2023",
       "link":     "",
       "type":     "Position",
-      "_date":    "20.12.01"
+      "_date":    "20.11.01"
     }, 
                  {
       "title":    "Council member",
