@@ -28,7 +28,7 @@
   "types": ["Journal Papers", "Book Chapters", "Proceedings", "Submitted Preprints"],
   "publications": [
                           {
-      "title":    "How political choices shaped Covid connectivity: the Italian case study..",
+      "title":    "How political choices shaped Covid connectivity: the Italian case study",
       "authors":  "I.M. Bulai, E. Amico",
       "journal":  "Plos One",
       "year":     2021,
@@ -41,7 +41,7 @@
       ]
     },
                       {
-      "title":    "Vaccination effect conjoint to fraction of avoided contacts on a Sars-Cov-2 mathematical model.",
+      "title":    "Vaccination effect conjoint to fraction of avoided contacts on a Sars-Cov-2 mathematical model",
       "authors":  "S. Allegretti, I. M. Bulai, R. Marino, M. A. Menandro and K. Parisi",
       "journal":  "Mathematical Modelling and Numerical Simulation with Applications",
       "year":     2021,
@@ -54,7 +54,7 @@
       ]
     },
                   {
-      "title":    "Interactions Obtained from Basic Mechanistic Principles: Prey Herds and Predators.",
+      "title":    "Interactions Obtained from Basic Mechanistic Principles: Prey Herds and Predators",
       "authors":  "C. Berardo, I. M. Bulai, E. Venturino",
       "journal":  "Mathematics",
       "year":     2021,
@@ -67,7 +67,7 @@
       ]
     },
                   {
-      "title":    "Modeling COVID-19 Considering Asymptomatic Cases and Avoided Contacts.",
+      "title":    "Modeling COVID-19 Considering Asymptomatic Cases and Avoided Contacts",
       "authors":  "I. M. Bulai",
       "journal":  "Trends in Biomathematics: Modeling, Optimization and Computational Problems",
       "year":     2021,
