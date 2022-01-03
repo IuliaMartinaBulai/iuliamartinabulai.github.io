@@ -27,6 +27,45 @@
   ],
   "types": ["Journal Papers", "Book Chapters", "Proceedings", "Submitted Preprints"],
   "publications": [
+                                     {
+      "title":    "Modeling metastatic tumor evolution, numerical resolution and growth prediction",
+      "authors":  "I.M. Bulai, M.C De Bonis, C. Laurita, V. Sagaria",
+      "journal":  "Under review",
+      "year":     2021,
+      "link":     "",
+      "topic":    "Numerical analysis",
+      "type":     "Submitted Preprints",
+      "_date":    "21.12.01",
+      "abstract": [
+        ""
+      ]
+    },
+                                 {
+      "title":    "Spectral graph wavelet packets frames",
+      "authors":  "I. M. Bulai, S. Saliani",
+      "journal":  "Under review",
+      "year":     2021,
+      "link":     "",
+      "topic":    "Numerical analysis",
+      "type":     "Submitted Preprints",
+      "_date":    "21.09.01",
+      "abstract": [
+        ""
+      ]
+    },
+                             {
+      "title":    "Modeling a rehab-recovery-relapse cycle with community dependence via ODEs",
+      "authors":  "I. M. Bulai, A. S. Teixeira,",
+      "journal":  "Under review",
+      "year":     2021,
+      "link":     "",
+      "topic":    "Ecoepidemiological mathematical models",
+      "type":     "Submitted Preprints",
+      "_date":    "21.01.01",
+      "abstract": [
+        ""
+      ]
+    },
                           {
       "title":    "How political choices shaped Covid connectivity: the Italian case study",
       "authors":  "I.M. Bulai, E. Amico",
