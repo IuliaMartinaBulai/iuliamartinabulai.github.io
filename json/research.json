@@ -32,7 +32,7 @@
       "authors":  "I.M. Bulai, E. Amico",
       "journal":  "Plos One",
       "year":     2021,
-      "link":     "doi.org/10.1371/journal.pone.0261041",
+      "link":     "10.1371/journal.pone.0261041",
       "topic":    "Ecoepidemiological mathematical models",
       "type":     "Journal Papers",
       "_date":    "21.12.12",
@@ -45,7 +45,7 @@
       "authors":  "S. Allegretti, I. M. Bulai, R. Marino, M. A. Menandro and K. Parisi",
       "journal":  "Mathematical Modelling and Numerical Simulation with Applications",
       "year":     2021,
-      "link":     "doi.org/10.53391/mmnsa.2021.01.006",
+      "link":     "10.53391/mmnsa.2021.01.006",
       "topic":    "Ecoepidemiological mathematical models",
       "type":     "Journal Papers",
       "_date":    "21.11.12",
@@ -409,12 +409,79 @@
     }
   ],
   "news": [
+                                                   {
+      "title":    "Poster",
+      "subtitle": "Virtual SIAM Conference on Analysis of Partial Differential Equations (PD22), March 2022",
+      "link":     "",
+      "type":     "Event",
+      "_date":    "22.03.12"
+    },
+                             {
+      "title":    "Invited contributed talk",
+      "subtitle": "Convegno e Assemblea GNCS, Montecatini Terme–IT, February 2021",
+      "link":     "",
+      "type":     "Event",
+      "_date":    "22.02.21"
+    },
+                                           {
+      "title":    "Participant",
+      "subtitle": "Winter Workshop on Complex System, Besancon–FR, 2022",
+      "link":     "",
+      "type":     "Event",
+      "_date":    "22.01.24"
+    },
+                                           {
+      "title":    "Talk",
+      "subtitle": "10th International Conference on Complex Networks and their Applications, On-line, November/December 2021",
+      "link":     "",
+      "type":     "Event",
+      "_date":    "21.11.30"
+    },
+                                   {
+      "title":    "Talk",
+      "subtitle": "Approximation: Theory, Methods and applications, ATMA2021, Reggio Calabria, November 2021",
+      "link":     "",
+      "type":     "Event",
+      "_date":    "21.11.10"
+    },
+       
+                    {
+      "title":    "Invited contributed talk",
+      "subtitle": "Virtual 5th Dolomites Workshop on Constructive Approximation and Applications, September 2021",
+      "link":     "",
+      "type":     "Event",
+      "_date":    "22.09.6"
+    },
+
+ 
+                               {
+      "title":    "Talk",
+      "subtitle": "Virtual International Conference on Computational Harmonic Analysis, ICCHA2021, September 2021",
+      "link":     "",
+      "type":     "Event",
+      "_date":    "21.09.13"
+    },
+                           {
+      "title":    "Talk",
+      "subtitle": "Virtual 13th International Society for Analysis its Applications and Computations (ISAAC) Congress 2021, August 2021",
+      "link":     "",
+      "type":     "Event",
+      "_date":    "21.08.02"
+    },
+                     {
+      "title":    "Invited contributed talk",
+      "subtitle": "Virtual ECCOMAS Young Investigators, July 2021",
+      "link":     "",
+      "type":     "Event",
+      "_date":    "21.07.6"
+    },
+
                        {
       "title":    "Talk",
       "subtitle": "Virtual SMB Mathematical Epidemiology and Math Education Joint Workshop, February 2021",
       "link":     "",
       "type":     "Event",
-      "_date":    "21.01.07"
+      "_date":    "21.02.01"
     },
                    {
       "title":    "Participant",
