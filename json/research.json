@@ -6,7 +6,7 @@
     "Via Piandanna, ",
     "07100 Sassari, Italy"
   ],
-   "bio": " I am an Assistant Professor (RTDb) at the University of Sassari, Department of Chemistry and Pharmacy. <br><br> I was an Assistant Professor (RTDa) at the University of Basilicata, Department of Mathematics, Informatics and Economics. <br><br>  I was a  Post Doc at the University of Padova working at two projects: 'Spatiotemporal and Stochastic Simulation Studies of Calcium Channels Effects in Endocrine Cell' and 'Next- generation modeling of wave and network properties in pancreatic islets' under the supervision of Prof. Morten Gram Pedersen, since March 2017.  <br><br> I have completed my PhD in mathematics at the University of Torino in February 2017, under the supervision of Prof. Ezio Venturino. <br><br> I have completed my Master of Science in Mathematics at the University of Torino under the supervision of Prof. Elena Cordero (2013). Also I have complete my Bachelor’s degree in Mathematics at the University of Torino (2011). <br><br>My research area of interest includes: Electrical activity in endocrine cells;  Eco-epidemiological mathematical models; Wastewater bioremediation; Mathematical modelling; Biological systems; Applied mathematics.",
+   "bio": " I am an Assistant Professor (RTDb) at the University of Sassari, Department of Chemistry and Pharmacy. <br><br> I was an Assistant Professor (RTDa) at the University of Basilicata, Department of Mathematics, Informatics and Economics (July 2019-December 2021). <br><br>  I was a  Post Doc at the University of Padova working at two projects: 'Spatiotemporal and Stochastic Simulation Studies of Calcium Channels Effects in Endocrine Cell' and 'Next- generation modeling of wave and network properties in pancreatic islets' under the supervision of Prof. Morten Gram Pedersen, (March 2017-July 2019).  <br><br> I have completed my PhD in mathematics at the University of Torino in February 2017, under the supervision of Prof. Ezio Venturino. <br><br> I have completed my Master of Science in Mathematics at the University of Torino under the supervision of Prof. Elena Cordero (2013). Also I have complete my Bachelor’s degree in Mathematics at the University of Torino (2011). <br><br>My research area of interest includes: Electrical activity in endocrine cells;  Eco-epidemiological mathematical models; Wastewater bioremediation; Mathematical modelling; Biological systems; Applied mathematics.",
   "topics": [
     {
       "title":    "Spatiotemporal and Stochastic models for endocrine cells",
@@ -27,10 +27,49 @@
   ],
   "types": ["Journal Papers", "Book Chapters", "Proceedings", "Submitted Preprints"],
   "publications": [
+                          {
+      "title":    "How political choices shaped Covid connectivity: the Italian case study..",
+      "authors":  "I.M. Bulai, E. Amico",
+      "journal":  "Plos One",
+      "year":     2021,
+      "link":     "doi.org/10.1371/journal.pone.0261041",
+      "topic":    "Ecoepidemiological mathematical models",
+      "type":     "Journal Papers",
+      "_date":    "21.12.12",
+      "abstract": [
+        ""
+      ]
+    },
+                      {
+      "title":    "Vaccination effect conjoint to fraction of avoided contacts on a Sars-Cov-2 mathematical model.",
+      "authors":  "S. Allegretti, I. M. Bulai, R. Marino, M. A. Menandro and K. Parisi",
+      "journal":  "Mathematical Modelling and Numerical Simulation with Applications",
+      "year":     2021,
+      "link":     "doi.org/10.53391/mmnsa.2021.01.006",
+      "topic":    "Ecoepidemiological mathematical models",
+      "type":     "Journal Papers",
+      "_date":    "21.11.12",
+      "abstract": [
+        ""
+      ]
+    },
+                  {
+      "title":    "Interactions Obtained from Basic Mechanistic Principles: Prey Herds and Predators.",
+      "authors":  "C. Berardo, I. M. Bulai, E. Venturino",
+      "journal":  "Mathematics",
+      "year":     2021,
+      "link":     "doi.org/10.3390/math9202555",
+      "topic":    "Ecoepidemiological mathematical models",
+      "type":     "Journal Papers",
+      "_date":    "21.10.12",
+      "abstract": [
+        ""
+      ]
+    },
                   {
       "title":    "Modeling COVID-19 Considering Asymptomatic Cases and Avoided Contacts.",
       "authors":  "I. M. Bulai",
-      "journal":  "To appear in Trends in Biomathematics: Modeling, Optimization and Computational Problems",
+      "journal":  "Trends in Biomathematics: Modeling, Optimization and Computational Problems",
       "year":     2021,
       "link":     " ",
       "topic":    "Ecoepidemiological mathematical models",
@@ -43,7 +82,7 @@
               {
       "title":    "A mathematical modeling approach to assess biological control of an orange tree disease",
       "authors":  "I. M. Bulai, A. C. Esteves, F. Lima, E. Venturino",
-      "journal":  "To appear in Applied Mathematics Letters",
+      "journal":  "Applied Mathematics Letters",
       "year":     2021,
       "link":     "doi.org/10.1016/j.aml.2021.107140 ",
       "topic":    "Ecoepidemiological mathematical models",
