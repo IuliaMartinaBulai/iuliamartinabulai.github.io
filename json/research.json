@@ -21,7 +21,7 @@
       "abstract": ""
     },
     {
-      "title":    "Numerical analysis",
+      "title":    "Analysis and Numerical analysis",
       "abstract": ""
     }
   ],
@@ -33,7 +33,7 @@
       "journal":  "Under review",
       "year":     2021,
       "link":     "",
-      "topic":    "Numerical analysis",
+      "topic":    "Analysis and Numerical analysis",
       "type":     "Submitted Preprints",
       "_date":    "21.12.01",
       "abstract": [
@@ -46,7 +46,7 @@
       "journal":  "Under review",
       "year":     2021,
       "link":     "",
-      "topic":    "Numerical analysis",
+      "topic":    "Analysis and Numerical analysis",
       "type":     "Submitted Preprints",
       "_date":    "21.09.01",
       "abstract": [
@@ -151,7 +151,7 @@
       "journal":  "IFAC-PapersOnLine",
       "year":     2019,
       "link":     "10.1016/j.ifacol.2019.12.250",
-      "topic":    "Numerical analysis",
+      "topic":    "Analysis and Numerical analysis",
       "type":     "Proceedings",
       "_date":    "19.12.26",
       "abstract": [
@@ -309,7 +309,7 @@
       "journal":  "IEEE Antennas and Wireless Propagation Letters",
       "year":     2016,
       "link":     "10.1109/LAWP.2016.2542878",
-      "topic":    "Numerical analysis",
+      "topic":    "Analysis and Numerical analysis",
       "type":     "Journal Papers",
       "_date":    "16.03.16",
       "abstract": [
@@ -335,7 +335,7 @@
       "journal":  "Applied and Computational Harmonic Analysis",
       "year":     2017,
       "link":     "10.1016/j.acha.2015.11.001",
-      "topic":    "Numerical analysis",
+      "topic":    "Analysis and Numerical analysis",
       "type":     "Journal Papers",
       "_date":    "17.11.10",
       "abstract": [
