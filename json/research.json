@@ -564,10 +564,64 @@
       "type":     "Event",
       "_date":    "21.09.01"
     },
+                                {
+      "title":    "Editorial Activity",
+      "subtitle": "Reviewer for: Applied Numerical Mathematics",
+      "type":     "Event",
+      "_date":    "20.09.01"
+    },
+                            {
+      "title":    "Editorial Activity",
+      "subtitle": "Reviewer for: Chaos, Solitons and Fractals",
+      "type":     "Event",
+      "_date":    "20.09.01"
+    },
+                                                {
+      "title":    "Editorial Activity",
+      "subtitle": "Reviewer for: Journal of Biological Systems",
+      "type":     "Event",
+      "_date":    "20.09.01"
+    },
+                                            {
+      "title":    "Editorial Activity",
+      "subtitle": "Reviewer for: Mathematical Modelling and Numerical Simulation with Applications",
+      "type":     "Event",
+      "_date":    "20.09.01"
+    },
+                                        {
+      "title":    "Editorial Activity",
+      "subtitle": "Reviewer for: Symmetry",
+      "type":     "Event",
+      "_date":    "20.09.01"
+    },
+                                    {
+      "title":    "Editorial Activity",
+      "subtitle": "Reviewer for: Annali dell’Università di Ferrara",
+      "type":     "Event",
+      "_date":    "20.09.01"
+    },
+                                {
+      "title":    "Editorial Activity",
+      "subtitle": "Reviewer for: Letters in Biomathematics",
+      "type":     "Event",
+      "_date":    "20.09.01"
+    },
+                            {
+      "title":    "Editorial Activity",
+      "subtitle": "Reviewer for:  International Journal of Modeling, Simulation, and Scientific Computing",
+      "type":     "Event",
+      "_date":    "20.09.01"
+    },
+                        {
+      "title":    "Editorial Activity",
+      "subtitle": "Reviewer for: Letters in Biomathematics",
+      "type":     "Event",
+      "_date":    "20.09.01"
+    },
 
                     {
       "title":    "Editorial Activity",
-      "subtitle": "Reviewer for: International Journal of Environmental Research and Public Health; Chaos, Solitons and Fractals; Applied Numerical Mathematics; Letters in Biomathematics; International Journal of Modeling, Simulation, and Scientific Computing; Letters in Biomathematics; Annali dell’Università di Ferrara; Symmetry; Mathematical Modelling and Numerical Simulation with Applications; Journal of Biological Systems",
+      "subtitle": "Reviewer for: International Journal of Environmental Research and Public Health",
       "type":     "Event",
       "_date":    "20.09.01"
     },
