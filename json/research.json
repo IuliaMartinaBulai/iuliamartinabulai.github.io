@@ -409,6 +409,12 @@
     }
   ],
   "news": [
+                    {
+      "title":    "Editorial Activity",
+      "subtitle": "Program commitee for: International Conference on Complex Networks and their Applications 2021",
+      "type":     "Event",
+      "_date":    "21.09.01"
+    },
           {
       "title":    "Assistant professor (RTDb)",
       "subtitle": "University of Sassari, Department of Chemistry and Pharmacy, 01.01.2022-31.12.2024",
