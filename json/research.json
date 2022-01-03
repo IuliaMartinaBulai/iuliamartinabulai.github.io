@@ -409,6 +409,19 @@
     }
   ],
   "news": [
+          {
+      "title":    "Assistant professor (RTDb)",
+      "subtitle": "University of Sassari, Department of Chemistry and Pharmacy, 01.01.2022-31.12.2024",
+      "text":     [""],
+      "type":     "Position",
+      "_date":    "22.01.01"
+    }, 
+            {
+      "title":    "Corso Matematica. Bachelor in Pharmacy, Uniss, Sassari",
+      "subtitle": "Uniss, 2021/2022",
+      "type":     "Position",
+      "_date":    "21.10.01"
+    },
                                                    {
       "title":    "Poster",
       "subtitle": "Virtual SIAM Conference on Analysis of Partial Differential Equations (PD22), March 2022",
@@ -511,6 +524,40 @@
       "type":     "Event",
       "_date":    "20.12.07"
     }, 
+         {
+      "title":    "Member",
+      "subtitle": "Member of Modellistica Socio-Epidemiologica, MSE, 2021-present",
+      "link":     "",
+      "type":     "Event",
+      "_date":    "21.01.01"
+    },
+               {
+      "title":    "INdAM grant",
+      "subtitle": "Finanziamento GNCS Giovani Ricercatori 2021–2022, 1500 euro",
+      "link":     "",
+      "type":     "Grant",
+      "_date":    "21.11.1"
+    }, 
+                                            {
+      "title":    "Visiting position",
+      "subtitle": " University of Cagliari",
+      "link":     "",
+      "type":     "Event",
+      "_date":    "21.10.01"
+    },
+                    {
+      "title":    "Editorial Activity",
+      "subtitle": "Editor for:Mathematical Modelling and Numerical Simulation with Applications",
+      "type":     "Event",
+      "_date":    "21.09.01"
+    },
+
+                    {
+      "title":    "Editorial Activity",
+      "subtitle": "Reviewer for: International Journal of Environmental Research and Public Health; Chaos, Solitons and Fractals; Applied Numerical Mathematics; Letters in Biomathematics; International Journal of Modeling, Simulation, and Scientific Computing; Letters in Biomathematics; Annali dell’Università di Ferrara; Symmetry; Mathematical Modelling and Numerical Simulation with Applications; Journal of Biological Systems",
+      "type":     "Event",
+      "_date":    "20.09.01"
+    },
                 {
       "title":    "Editorial Activity",
       "subtitle": "Reviewer for: Mathematics (MDPI)",
