@@ -6,7 +6,10 @@
     "Via Piandanna, ",
     "07100 Sassari, Italy"
   ],
-   "bio": " I am an Assistant Professor (RTDb) at the University of Sassari, Department of Chemistry and Pharmacy. <br><br> I was an Assistant Professor (RTDa) at the University of Basilicata, Department of Mathematics, Informatics and Economics (July 2019-December 2021). <br><br>  I was a  Post Doc at the University of Padova working at two projects: 'Spatiotemporal and Stochastic Simulation Studies of Calcium Channels Effects in Endocrine Cell' and 'Next- generation modeling of wave and network properties in pancreatic islets' under the supervision of Prof. Morten Gram Pedersen, (March 2017-July 2019).  <br><br> I have completed my PhD in mathematics at the University of Torino in February 2017, under the supervision of Prof. Ezio Venturino. <br><br> I have completed my Master of Science in Mathematics at the University of Torino under the supervision of Prof. Elena Cordero (2013). Also I have complete my Bachelor’s degree in Mathematics at the University of Torino (2011). <br><br>My research area of interest includes: Electrical activity in endocrine cells;  Eco-epidemiological mathematical models; Wastewater bioremediation; Mathematical modelling; Biological systems; Applied mathematics.",
+   "bio": " I am an Assistant Professor (RTDb) at the University of Sassari, Department of Chemistry and Pharmacy. <br><br> I was an Assistant Professor (RTDa) at the University of Basilicata, Department of Mathematics, Informatics and Economics (July 2019-December 2021). "
+          "  <br><br> In my postdoctoral experience, I have spent time at the University of Padua in the Prof. MG. Pedersen group, shifting my interests to a new field on mathematical modeling of subcellular and cellular systems responsible for hormone secretion. (March 2017-July 2019). " 
+          " <br><br> I have completed my PhD in mathematics at the University of Torino in February 2017, under the supervision of Prof. Ezio Venturino.  In my PhD thesis, I have considered a number of problems in mathematical biology. The first part of the thesis is concerned with biological wastewater bioremediation using fungi. The second part of the dissertation considers problems in ecology, for interacting populations. "
+          "  <br><br> I have completed my Master of Science in Mathematics at the University of Torino under the supervision of Prof. Elena Cordero (2013). Also I have complete my Bachelor’s degree in Mathematics at the University of Torino (2011). <br><br>My research area of interest includes: Electrical activity in endocrine cells;  Eco-epidemiological mathematical models; Wastewater bioremediation; Mathematical modelling; Biological systems; Applied mathematics.",
   "topics": [
     {
       "title":    "Spatiotemporal and Stochastic models for endocrine cells",
@@ -1180,8 +1183,8 @@
        {
       "title": "Thesis Proposals",
       "text": [
-        "<ul><li>Completed:<ul>    <li> Martina Salvia, An epidemiological mathematical model assuming non well-mixed population, an application to Covid-19. </i></a><br>Bachelor in Mathematics, Università di Basilicata, 24/02/2022.</li>        </ul></li></ul>",
-        "<ul><li>Ongoing:<ul>    <li> Stefania Allegretti. <i> Bachelor in Mathematics, Università di Basilicata.</li>   </ul></li></ul>"  
+        "<ul><li>Completed:<ul>    <li> Martina Salvia, An epidemiological mathematical model assuming non well-mixed population, an application to Covid-19.  Bachelor in Mathematics, Università di Basilicata, 24/02/2022.</li>        </ul></li></ul>",
+        "<ul><li>Ongoing:<ul>    <li> Stefania Allegretti. Bachelor in Mathematics, Università di Basilicata.</li>   </ul></li></ul>"  
       ]
     }
     ],
