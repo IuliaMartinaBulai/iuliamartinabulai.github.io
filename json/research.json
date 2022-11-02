@@ -59,7 +59,7 @@
       "authors":  "I. M. Bulai, F. Montefusco, M.G. Pedersen",
       "journal":  "Applied Mathematics Letters",
       "year":     2023,
-      "link":     "https://doi.org/10.1016/j.aml.2022.108455",
+      "link":     "10.1016/j.aml.2022.108455",
       "topic":    "Analysis and Numerical analysis",
       "type":     "Journal Papers",
       "_date":    "23.02.01",
@@ -85,7 +85,7 @@
       "authors":  "I.M. Bulai, M.C De Bonis, C. Laurita, V. Sagaria",
       "journal":  "Mathematics and Computers in Simulation",
       "year":     2023,
-      "link":     "https://doi.org/10.1016/j.matcom.2022.07.002",
+      "link":     "10.1016/j.matcom.2022.07.002",
       "topic":    "Analysis and Numerical analysis",
       "type":    "Journal Papers",
       "_date":    "23.01.01",
@@ -503,7 +503,7 @@
   "news": [
                                    {
       "title":    "Talk",
-      "subtitle": "GIMC (Gruppo Italiano di Meccanica Computazionale) SIMAI (Società Italiana di Matematica Applicata e Industriale) YOUNG 2022 Workshop, Pavia-IT, September 2022.",
+      "subtitle": "GIMC (Gruppo Italiano di Meccanica Computazionale) SIMAI (Società Italiana di Matematica Applicata e Industriale) YOUNG 2022 Workshop, Pavia-IT, September 2022",
       "link":     "",
       "type":     "Event",
       "_date":    "22.09.29"
