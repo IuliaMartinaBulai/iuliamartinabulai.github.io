@@ -189,7 +189,7 @@ app.controller('researchCtrl', function($scope, $rootScope, $routeParams, $locat
   }, {
     /*------------------------------
       topics page
-    ------------------------------*/
+    ------------------------------
     title:    "Topics",
     select:   true,
     painter:  function(db) {
@@ -200,7 +200,8 @@ app.controller('researchCtrl', function($scope, $rootScope, $routeParams, $locat
                 });
                 return content;
               }
-  }, {
+  }, */ 
+               {
     /*------------------------------
       publications page
     ------------------------------*/
@@ -232,7 +233,7 @@ app.controller('researchCtrl', function($scope, $rootScope, $routeParams, $locat
     /*------------------------------
       teaching page
     ------------------------------*/
-    title:    "Teaching",
+    title:    "Supervision/Teaching",
     painter:  function(db) {
                 for (let d of db.teaching) {
                   d._template = "box";
