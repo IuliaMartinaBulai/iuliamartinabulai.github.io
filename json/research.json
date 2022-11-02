@@ -27,7 +27,20 @@
   ],
   "types": ["Journal Papers", "Book Chapters", "Proceedings", "Submitted Preprints"],
   "publications": [
-                                                 {
+      {
+      "title":    "Role of ultrasensitivity in biomolecular circuitry for achieving homeostasis",
+      "authors":  "F. Montefusco1, A. Procopio, I. M. Bulai, F. Amato and C Cosentino,",
+      "journal":  "Under review",
+      "year":     2022,
+      "link":     "",
+      "topic":    "Analysis and Numerical analysis",
+      "type":     "Submitted Preprints",
+      "_date":    "22.08.01",
+      "abstract": [
+        ""
+      ]
+    },                  
+    {
       "title":    "Interacting with COVID-19: How population behavior, feedback and memory shaped recurrent waves of the epidemic",
       "authors":  "F. Montefusco, A. Procopio, I.M. Bulai, F. Amato, M.G. Pedersen and C. Cosentino",
       "journal":  "IEEE Control Systems Letters",
