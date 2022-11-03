@@ -1258,7 +1258,8 @@
         "<ul><li>Completed: ",
          "<ul>",
           "<li> Martina Salvia, An epidemiological mathematical model assuming non well-mixed population, an application to Covid-19.  Bachelor in Mathematics, Università di Basilicata, 24/02/2022. </li> ",
-          "<li> Stefania Allegretti, Modeling oncolytic virotherapy. Bachelor in Mathematics, Università di Basilicata, 19/07/2022 </ul></li></ul>" 
+          "<li> Stefania Allegretti, Modeling oncolytic virotherapy. Bachelor in Mathematics, Università di Basilicata, 19/07/2022 </ul></li>",
+        "</ul>" 
       ]
     },
     {
@@ -1279,7 +1280,13 @@
     {
       "title": "Media and dissemination",
       "text": [
-        "<ul><li>19/09/2014. <a href=\"https://www.youtube.com/watch?v=P6SvvXyGPTU\" target=\"_blank\"><i>Matematica - TRACKS Notte dei Ricercatori 2014 . </i></a>  </li><li>31/07/2020. <a href=\"https://youtu.be/MNfgtk_uvAY\" target=\"_blank\"><i>Interview TGR. </i></a>  </li><li> 01/08/2020. <a href=\"https://napoli.repubblica.it/cronaca/2019/08/01/news/potenza_all_universita_venti_nuovi_ricercatori-232542615/\" target=\"_blank\"><i>Press Article.</i></a>   </li><li> 26/11/2020. <a href=\"https://www.europeanwomeninmaths.org/bulai-modelling/\" target=\"_blank\"><i>Article in EWM Newsletter 34 .</i></a> </li><li> 29/12/2020. <a href=\"http://maddmaths.simai.eu/in-evidenza/i-modelli-matematici-strumenti-potenti-ai-tempi-della-pandemia-covid-19/\" target=\"_blank\"><i>Article in MaddMaths! MAtematica Divulgazione Didattica .</i></a> "
+        "<ul>",
+        "<li>19/09/2014. <a href=\"https://www.youtube.com/watch?v=P6SvvXyGPTU\" target=\"_blank\"><i>Matematica - TRACKS Notte dei Ricercatori 2014 . </i></a>  </li>",
+        "<li>31/07/2020. <a href=\"https://youtu.be/MNfgtk_uvAY\" target=\"_blank\"><i>Interview TGR. </i></a>  </li>",
+        "<li>01/08/2020. <a href=\"https://napoli.repubblica.it/cronaca/2019/08/01/news/potenza_all_universita_venti_nuovi_ricercatori-232542615/\" target=\"_blank\"><i>Press Article.</i></a>   </li>",
+        "<li>26/11/2020. <a href=\"https://www.europeanwomeninmaths.org/bulai-modelling/\" target=\"_blank\"><i>Article in EWM Newsletter 34 .</i></a> </li>",
+        "<li>29/12/2020. <a href=\"http://maddmaths.simai.eu/in-evidenza/i-modelli-matematici-strumenti-potenti-ai-tempi-della-pandemia-covid-19/\" target=\"_blank\"><i>Article in MaddMaths! MAtematica Divulgazione Didattica .</i></a> </li>",
+         "</ul>"
       ]
     }
     ]
