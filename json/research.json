@@ -1255,10 +1255,8 @@
        {
       "title": "Thesis Proposals",
       "text": [
-        "<ul><li>Completed: ",
-          "<ul><li> Martina Salvia, An epidemiological mathematical model assuming non well-mixed population, an application to Covid-19.  Bachelor in Mathematics, Università di Basilicata, 24/02/2022. </li> ",
-          "<li> Stefania Allegretti, Modeling oncolytic virotherapy. Bachelor in Mathematics, Università di Basilicata, 19/07/2022 </li></ul>",
-        "</li></ul>" 
+        "<ul><li>Completed: <ul><li> Martina Salvia, An epidemiological mathematical model assuming non well-mixed population, an application to Covid-19.  Bachelor in Mathematics, Università di Basilicata, 24/02/2022. </li> ",
+          "<li> Stefania Allegretti, Modeling oncolytic virotherapy. Bachelor in Mathematics, Università di Basilicata, 19/07/2022 </li></ul></li></ul>" 
       ]
     },
     {
