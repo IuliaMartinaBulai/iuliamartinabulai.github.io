@@ -27,9 +27,22 @@
   ],
   "types": ["Journal Papers", "Book Chapters", "Proceedings", "Submitted Preprints"],
   "publications": [
+     {
+      "title":    "Approximation of basins of attraction for bi-stable dynamical system for olive disease control",
+      "authors":  "I. M. Bulai, M. Salvia",
+      "journal":  "Under review",
+      "year":     2023,
+      "link":     "",
+      "topic":    "Analysis and Numerical analysis",
+      "type":     "Submitted Preprints",
+      "_date":    "23.02.28",
+      "abstract": [
+        ""
+      ]
+    },
       {
       "title":    "Role of ultrasensitivity in biomolecular circuitry for achieving homeostasis",
-      "authors":  "F. Montefusco1, A. Procopio, I. M. Bulai, F. Amato and C Cosentino,",
+      "authors":  "F. Montefusco, A. Procopio, I. M. Bulai, F. Amato and C Cosentino,",
       "journal":  "Under review",
       "year":     2022,
       "link":     "",
@@ -98,7 +111,7 @@
       "authors":  "I. M. Bulai, S. Saliani",
       "journal":  "Under review",
       "year":     2021,
-      "link":     "",
+      "link":     "http://dx.doi.org/10.2139/ssrn.4252743",
       "topic":    "Analysis and Numerical analysis",
       "type":     "Submitted Preprints",
       "_date":    "21.09.01",
@@ -501,6 +514,27 @@
     }
   ],
   "news": [
+              {
+      "title":    "ASN MAT/08, 30.01.2023-30.01.2033",
+      "subtitle": "Abilitazione Scientifica Nazionale per professore di seconda fascia in MAT/08 (National scientific qualification for asociate professor in Numerical Analysis)",
+      "text":     [""],
+      "type":     "Position",
+      "_date":    "23.01.30"
+    },
+                                           {
+      "title":    "Participant",
+      "subtitle": "Workshop Software for Approximation, SA2023, Torino-IT, February 2023",
+      "link":     "",
+      "type":     "Event",
+      "_date":    "23.02.10"
+    },
+                                       {
+      "title":    "Participant",
+      "subtitle": "Approximation: Theory, Methods and Applications, ATMA2023, Padova-IT, January 2023",
+      "link":     "",
+      "type":     "Event",
+      "_date":    "23.01.15"
+    },
                                    {
       "title":    "Talk",
       "subtitle": "GIMC (Gruppo Italiano di Meccanica Computazionale) SIMAI (Società Italiana di Matematica Applicata e Industriale) YOUNG 2022 Workshop, Pavia-IT, September 2022",
@@ -544,7 +578,7 @@
     },
           {
       "title":    "Assistant professor (RTDb)",
-      "subtitle": "University of Sassari, Department of Chemistry and Pharmacy, 01.01.2022-31.12.2024",
+      "subtitle": "University of Sassari, Department of Chemical, Physical, Mathematical and Natural Sciences, 01.01.2022-31.12.2024",
       "text":     [""],
       "type":     "Position",
       "_date":    "22.01.01"
