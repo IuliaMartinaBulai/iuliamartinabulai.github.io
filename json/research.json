@@ -28,13 +28,13 @@
   "types": ["Journal Papers", "Book Chapters", "Proceedings", "Submitted Preprints"],
   "publications": [
      {
-      "title":    "Approximation of basins of attraction for bi-stable dynamical system for olive disease control",
+      "title":    "Approximation of basins of attraction for bistable dynamical system for olive disease control",
       "authors":  "I. M. Bulai, M. Salvia",
-      "journal":  "Under review",
+      "journal":  "Applied Numerical Mathematics",
       "year":     2023,
-      "link":     "",
+      "link":     "https://doi.org/10.1016/j.apnum.2023.05.005",
       "topic":    "Analysis and Numerical analysis",
-      "type":     "Submitted Preprints",
+      "type":     "Journal Papers",
       "_date":    "23.02.28",
       "abstract": [
         ""
@@ -109,12 +109,12 @@
                                  {
       "title":    "Spectral graph wavelet packets frames",
       "authors":  "I. M. Bulai, S. Saliani",
-      "journal":  "Under review",
+      "journal":  "Applied and Computational Harmonic Analysis",
       "year":     2021,
-      "link":     "http://dx.doi.org/10.2139/ssrn.4252743",
+      "link":     "https://doi.org/10.1016/j.acha.2023.04.003",
       "topic":    "Analysis and Numerical analysis",
-      "type":     "Submitted Preprints",
-      "_date":    "21.09.01",
+      "type":     "Journal Papers",
+      "_date":    "23.02.01",
       "abstract": [
         ""
       ]
