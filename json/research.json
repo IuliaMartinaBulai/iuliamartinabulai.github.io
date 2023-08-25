@@ -27,6 +27,19 @@
   ],
   "types": ["Journal Papers", "Book Chapters", "Proceedings", "Submitted Preprints"],
   "publications": [
+         {
+      "title":    "Prey herding and predators’ feeding satiation induce multiple stability.",
+      "authors":  "F. Accoto I. M. Bulai, E. Veturino",
+      "journal":  "",
+      "year":     2023,
+      "link":     "",
+      "topic":    "Analysis and Numerical analysis",
+      "type":     "Submitted Preprints",
+      "_date":    "23.07.21",
+      "abstract": [
+        ""
+      ]
+    },
      {
       "title":    "Approximation of basins of attraction for bistable dynamical system for olive disease control",
       "authors":  "I. M. Bulai, M. Salvia",
@@ -514,6 +527,83 @@
     }
   ],
   "news": [
+                                                            {
+      "title":    "Invited contributed talk",
+      "subtitle": "International Association for Mathematics and Computers in Simulations (IMACS), Roma-IT, September 2023",
+      "link":     "",
+      "type":     "Event",
+      "_date":    "23.09.14"
+    },
+                                                                {
+      "title":    "Invited contributed talk",
+      "subtitle": "International Conference of Numerical Analysis and Applied Mathematics (ICNAAM), Crete-EL, September 2023",
+      "link":     "",
+      "type":     "Event",
+      "_date":    "23.09.12"
+    },
+                                                        {
+      "title":    "Two invited contributed talk",
+      "subtitle": "Italian Society of Applied and Industrial Mathematics (SIMAI), Matera-IT, August 2023",
+      "link":     "",
+      "type":     "Event",
+      "_date":    "23.08.28"
+    },
+                                                    {
+      "title":    "Invited contributed talk",
+      "subtitle": "SIAM Conference on Control and Its Applications (CT23), Philadelphia, Pennsylvania-USA, July 2023",
+      "link":     "",
+      "type":     "Event",
+      "_date":    "23.07.26"
+    },
+                                                 {
+      "title":    "Contributed talk",
+      "subtitle": "Annual Meeting of the Society for Mathematical Biology (SMB), Columbus–USA, July 2023",
+      "link":     "",
+      "type":     "Event",
+      "_date":    "23.07.20"
+    },
+                                                     {
+      "title":    "Poster",
+      "subtitle": "Dynamical Systems in the Life Sciences Conference (DSLS23), Columbus–USA, July 2023",
+      "link":     "",
+      "type":     "Event",
+      "_date":    "23.07.13"
+    },
+                                                 {
+      "title":    "Invited contributed talk",
+      "subtitle": "Workshop At the interface of Agriculture, Artificial Intelligence, Mathematics and Earth Observation applications (MathAIEOapp), Bari-IT, July 2023",
+      "link":     "",
+      "type":     "Event",
+      "_date":    "23.07.06"
+    },
+                                             {
+      "title":    "Contributed talk",
+      "subtitle": "International Conference on Approximation Theory and Application, UMI-TAA, Cetraro–IT, June 2023",
+      "link":     "",
+      "type":     "Event",
+      "_date":    "23.06.22"
+    },
+                   {
+      "title":    "PRIN grant",
+      "subtitle": "PRIN 2022 research grant (PE1), as PI: TIme-varying signals on Graphs: REal and COmplex methods - TIGRECO, 187.500 euro",
+      "link":     "",
+      "type":     "Grant",
+      "_date":    "23.06.01"
+    }, 
+                                                 {
+      "title":    "Invited contributed talk",
+      "subtitle": "Challenges and Advances in Numerical Analysis (CaNA), Cagliari-IT, June 2023",
+      "link":     "",
+      "type":     "Event",
+      "_date":    "23.06.06"
+    },
+                                         {
+      "title":    "Contributed talk",
+      "subtitle": "Workshop Modellistica Socio-Epidemiologica, MSE, Napoli–IT, May 2023",
+      "link":     "",
+      "type":     "Event",
+      "_date":    "23.05.18"
+    },
               {
       "title":    "ASN MAT/08, 30.01.2023-30.01.2033",
       "subtitle": "Abilitazione Scientifica Nazionale per Professore di II fascia in MAT/08 (National Scientific Qualification for Associate Professor in Numerical Analysis)",
