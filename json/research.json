@@ -1376,16 +1376,11 @@
     }
   ],
     "teaching": [
-                   {
-      "title": "Scientific advisor",
-      "text": [
-        "<ul><li>Ongoing:<ul><li>  8 months scholarship: Study of mathematical models for population dynamics and biodiversity distribution </ul></li></ul>" 
-      ]
-    },
              {
       "title": "Scientific advisor",
       "text": [
-        "<ul><li>Completed:<ul><li>  5 months scholarship: Studio di modelli epidemiologici caratterizzati da classi non omogenee con applicazione a Covid-19 </ul></li></ul>" 
+         "<ul><li>Ongoing:<ul><li>  8 months scholarship: Study of mathematical models for population dynamics and biodiversity distribution </ul></li></ul>" 
+         "<ul><li>Completed:<ul><li>  5 months scholarship: Studio di modelli epidemiologici caratterizzati da classi non omogenee con applicazione a Covid-19 </ul></li></ul>" 
       ]
     },
        {
