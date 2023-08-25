@@ -1286,6 +1286,12 @@
     }
   ],
     "teaching": [
+                   {
+      "title": "Scientific advisor",
+      "text": [
+        "<ul><li>Ongoing:<ul><li>  8 months scholarship: Study of mathematical models for population dynamics and biodiversity distribution </ul></li></ul>" 
+      ]
+    },
              {
       "title": "Scientific advisor",
       "text": [
@@ -1327,7 +1333,8 @@
         "<li>01/08/2020. <a href=\"https://napoli.repubblica.it/cronaca/2019/08/01/news/potenza_all_universita_venti_nuovi_ricercatori-232542615/\" target=\"_blank\"><i>Press Article.</i></a>   </li>",
         "<li>26/11/2020. <a href=\"https://www.europeanwomeninmaths.org/bulai-modelling/\" target=\"_blank\"><i>Article in EWM Newsletter 34 .</i></a> </li>",
         "<li>29/12/2020. <a href=\"http://maddmaths.simai.eu/in-evidenza/i-modelli-matematici-strumenti-potenti-ai-tempi-della-pandemia-covid-19/\" target=\"_blank\"><i>Article in MaddMaths! MAtematica Divulgazione Didattica .</i></a> </li>",
-         "</ul>"
+         "<li>27/07/2023. <a href=\"https://sinews.siam.org/Details-Page/model-represents-metastatic-tumor-growth-to-explore-treatments\" target=\"_blank\"><i>Article in SIAM News Blogs.</i></a> </li>",
+        "</ul>"
       ]
     }
     ]
