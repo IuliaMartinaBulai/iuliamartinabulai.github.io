@@ -1,12 +1,12 @@
 {
   "address": [
-    "Research Fellow (RTDb),",
+    "Associate Professor in Numerical Analysis,",
     "<a href=\"https://www.chimica.uniss.it\"> Dipartimento di Scienze chimiche, fisiche, matematiche e naturali, </a>,",
     "<a href=\"https://www.uniss.it\">University of Sassari</a>,",
-    "Via Piandanna, ",
+    "Via Vienna, ",
     "07100 Sassari, Italy"
   ],
-   "bio": " I am a Tenure-Track Assistant Professor (RTDb) at the University of Sassari, Dipartimento di Scienze Chimiche, Fisiche, Matematiche e Naturali, (January 2022-ongoing). <br><br> I was an Assistant Professor (RTDa) at the University of Basilicata, Department of Mathematics, Informatics and Economics (July 2019-December 2021).  <br><br> In my postdoctoral experience, I have spent time at the University of Padua in the Prof. MG. Pedersen group, shifting my interests to a new field on mathematical modeling of subcellular and cellular systems responsible for hormone secretion. (March 2017-July 2019). <br><br> I have completed my PhD in mathematics at the University of Torino in February 2017, under the supervision of Prof. Ezio Venturino. (January 2014-December 2016) <br>  In my PhD thesis, I have considered a number of problems in mathematical biology. The first part of the thesis is concerned with biological wastewater bioremediation using fungi. The second part of the dissertation considers problems in ecology, for interacting populations.  <br><br> I have completed my Master of Science in Mathematics at the University of Torino under the supervision of Prof. Elena Cordero (2013). <br><br>My research area of interest includes: Graph signal processing; Time-frequency analysis; Gabor frames and applications; Mathematical modeling with applications to: cancer; Covid-19; electrical activity and Ca+ dynamics in endocrine cells; epidemiology; ecology; eco-epidemiologi;  etc. Slow/fast bifurcation analysis; excitation waves",
+   "bio": "I am an Associate Professor in Numerical Analysis at the University of Sassari, Dipartimento di Scienze Chimiche, Fisiche, Matematiche e Naturali, (January 2022-December 2024). <br><br> I was a Tenure-Track Assistant Professor (RTDb) at the University of Sassari, Dipartimento di Scienze Chimiche, Fisiche, Matematiche e Naturali, (January 2022-December 2024). <br><br> I was an Assistant Professor (RTDa) at the University of Basilicata, Department of Mathematics, Informatics and Economics (July 2019-December 2021).  <br><br> In my postdoctoral experience, I have spent time at the University of Padua in the Prof. MG. Pedersen group, shifting my interests to a new field on mathematical modeling of subcellular and cellular systems responsible for hormone secretion. (March 2017-July 2019). <br><br> I have completed my PhD in mathematics at the University of Torino in February 2017, under the supervision of Prof. Ezio Venturino. (January 2014-December 2016) <br>  In my PhD thesis, I have considered a number of problems in mathematical biology. The first part of the thesis is concerned with biological wastewater bioremediation using fungi. The second part of the dissertation considers problems in ecology, for interacting populations.  <br><br> I have completed my Master of Science in Mathematics at the University of Torino under the supervision of Prof. Elena Cordero (2013). <br><br>My research area of interest includes: Graph signal processing; Time-frequency analysis; Gabor frames and applications; Mathematical modeling with applications to: cancer; Covid-19; electrical activity and Ca+ dynamics in endocrine cells; epidemiology; ecology; eco-epidemiologi;  etc. Slow/fast bifurcation analysis; excitation waves",
   "topics": [
         {
       "title":    "Analysis and Numerical analysis",
@@ -27,15 +27,54 @@
   ],
   "types": ["Journal Papers", "Book Chapters", "Proceedings", "Submitted Preprints"],
   "publications": [
+                     {
+      "title":    "A theoretical model of plant species competition: The case of invasive Carpobrotus sp. pl. and native Mediterranean coastal",
+      "authors":  "S. Bagella, I.M. Bulai, M. Malvasi, G. Orrù",
+      "journal":  "Ecological informatics",
+      "year":     2025,
+      "link":     "",
+      "topic":    "Ecology and Numerical analysis",
+      "type":     "Journal Papers",
+      "_date":    "25.02.09",
+      "abstract": [
+        ""
+      ]
+    },
+                 {
+      "title":    "Numerical solution of metastatic tumor growth models with treatment",
+      "authors":  "I.M. Bulai, M.C De Bonis, C. Laurita",
+      "journal":  "Applied Mathematics and Computation",
+      "year":     2025,
+      "link":     "https://doi.org/10.1016/j.amc.2024.128988",
+      "topic":    "Numerical analysis",
+      "type":     "Journal Papers",
+      "_date":    "25.01.01",
+      "abstract": [
+        ""
+      ]
+    },
+             {
+      "title":    "A geometric analysis of the SIRS compartmental model with fast information and misinformation spreading",
+      "authors":  "I. M. Bulai, M. Sensi, S. Sottile",
+      "journal":  "Chaos, Solitons and Fractals: the interdisciplinary journal of Nonlinear Science, and Nonequilibrium and Complex Phenomena",
+      "year":     2024,
+      "link":     "https://dx.doi.org/10.1016/j.chaos.2024.115104",
+      "topic":    "Analysis and Numerical analysis",
+      "type":     "Journal Papers",
+      "_date":    "24.08.01",
+      "abstract": [
+        ""
+      ]
+    },
          {
       "title":    "Prey herding and predators’ feeding satiation induce multiple stability",
       "authors":  "F. Accoto I. M. Bulai, E. Veturino",
-      "journal":  "",
+      "journal":  "Communications in Nonlinear Science and Numerical Simulation",
       "year":     2023,
-      "link":     "",
+      "link":     "https://doi.org/10.1016/j.cnsns.2023.107564",
       "topic":    "Analysis and Numerical analysis",
-      "type":     "Submitted Preprints",
-      "_date":    "23.07.21",
+      "type":     "Journal Papers",
+      "_date":    "23.12.01",
       "abstract": [
         ""
       ]
@@ -56,12 +95,12 @@
       {
       "title":    "Role of ultrasensitivity in biomolecular circuitry for achieving homeostasis",
       "authors":  "F. Montefusco, A. Procopio, I. M. Bulai, F. Amato and C Cosentino,",
-      "journal":  "Under review",
-      "year":     2022,
-      "link":     "",
+      "journal":  "Nonlinear Dynamics",
+      "year":     2024,
+      "link":     "https://doi.org/10.1007/s11071-023-09260-6",
       "topic":    "Analysis and Numerical analysis",
-      "type":     "Submitted Preprints",
-      "_date":    "22.08.01",
+      "type":     "Journal Papers",
+      "_date":    "24.02.09",
       "abstract": [
         ""
       ]
@@ -135,12 +174,12 @@
                              {
       "title":    "Modeling a rehab-recovery-relapse cycle with community dependence via ODEs",
       "authors":  "I. M. Bulai, A. S. Teixeira",
-      "journal":  "Under review",
-      "year":     2021,
-      "link":     "",
+      "journal":  "Journal of Biological Systems",
+      "year":     2024,
+      "link":     "https://doi.org/10.1142/S0218339024400059",
       "topic":    "Ecoepidemiological mathematical models",
-      "type":     "Submitted Preprints",
-      "_date":    "21.01.01",
+      "type":     "Journal Papers",
+      "_date":    "24.01.01",
       "abstract": [
         ""
       ]
