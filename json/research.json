@@ -27,12 +27,25 @@
   ],
   "types": ["Journal Papers", "Book Chapters", "Proceedings", "Submitted Preprints"],
   "publications": [
+                         {
+      "title":    "A new MATLAB software for numerical computation of biological observables for metastatic tumor growth",
+      "authors":  "I.M. Bulai, M.C De Bonis, C. Laurita",
+      "journal":  "Mathematics and Computers in Simulation",
+      "year":     2025,
+      "link":     "https://doi.org/10.1016/j.matcom.2025.02.014",
+      "topic":    "Mathematical modelling and Numerical analysis",
+      "type":     "Journal Papers",
+      "_date":    "25.02.10",
+      "abstract": [
+        ""
+      ]
+    },
                      {
       "title":    "A theoretical model of plant species competition: The case of invasive Carpobrotus sp. pl. and native Mediterranean coastal",
       "authors":  "S. Bagella, I.M. Bulai, M. Malvasi, G. Orrù",
       "journal":  "Ecological informatics",
       "year":     2025,
-      "link":     "",
+      "link":     "https://doi.org/10.1016/j.ecoinf.2025.103070",
       "topic":    "Ecology and Numerical analysis",
       "type":     "Journal Papers",
       "_date":    "25.02.09",
