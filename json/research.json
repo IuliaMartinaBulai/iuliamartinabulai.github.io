@@ -664,14 +664,14 @@
                {
       "title":    "Software released",
       "subtitle": "MTGM: Metastatic Tumor Growth Modeling Toolbox. Developed by Iulia Martina Bulai, Maria Carmela De Bonis, Concetta Laurita",
-      "link":     " https://github.com/IuliaMartinaBulai/MPSC_Toolbox",
+      "link":     "https://github.com/IuliaMartinaBulai/MTGM_Toolbox",
       "type":     "Software",
       "_date":    "24.02.01"
     },
            {
       "title":    "Software released",
       "subtitle": "MPSC: Model Plant Species Competition Toolbox. Developed by Iulia Martina Bulai, Giulia Orrù",
-      "link":     "https://github.com/IuliaMartinaBulai/MTGM_Toolbox",
+      "link":     "https://github.com/IuliaMartinaBulai/MPSC_Toolbox",
       "type":     "Software",
       "_date":    "25.02.01"
     },
