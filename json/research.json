@@ -605,6 +605,48 @@
     }
   ],
   "news": [
+        {
+      "title":    "Minisymposia co-organizer",
+      "subtitle": "''Mathematical imaging and signal processing'' at Dolomites Workshop on Constructive Approximation and Applications (DWCAA) Alba di Canazei – IT, September 2024",
+      "link":     "https://sites.google.com/view/dwcaa24/home-page",
+      "type":     "Event",
+      "_date":    "24.09.09"
+    },
+    {
+      "title":    "Workshop Organizer",
+      "subtitle": " 1st International Workshop Franco-Italian Mathematical Ecology Days, Turin – IT, November 2016",
+      "link":     "",
+      "type":     "Event",
+      "_date":    "16.11.01"
+    },
+                       {
+      "title":    "Workshop Organizer",
+      "subtitle": " ''PRIN 2022: Time-varying signals on graphs: real and complex methods – TIGRECO'', Bergamo – IT, April 2023",
+      "link":     "https://sites.google.com/view/tigreco/workshop-2024",
+      "type":     "Event",
+      "_date":    "23.04.15"
+    },
+                   {
+      "title":    "Conference Organizer",
+      "subtitle": " ''Chiaccherate nonlineari'', Alghero – IT, October 2023",
+      "link":     "https://sites.google.com/view/chiaccheratenonlineari2023/home-page",
+      "type":     "Event",
+      "_date":    "23.10.02"
+    },
+               {
+      "title":    "Conference Organizer",
+      "subtitle": " ''Numerical Analysis & Modelling in Applied Sciences'' (NAMAS-2024), Gaeta – IT, September 2024",
+      "link":     " https://sites.google.com/view/namas-24/home",
+      "type":     "Event",
+      "_date":    "24.09.16"
+    },
+           {
+      "title":    "Conference Organizer",
+      "subtitle": " ''Modelli nelle scienze della vita'', Cagliari – IT, September 2024",
+      "link":     "https://web.unica.it/unica/page/it/antonio_greco_avs_modelli_nelle_scienze_della_vita",
+      "type":     "Event",
+      "_date":    "24.09.23"
+    },
                        {
       "title":    "Software released",
       "subtitle": "SGWPT: Spectral Graph Wavelet Packet Transform Toolbox. Developed by Iulia Martina Bulai, Sandra Saliani",
