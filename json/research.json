@@ -1556,24 +1556,31 @@
       "title": "Scientific advisor",
       "text": [
         "<ul>",
-        "<li> Ongoing: 8 months scholarship: Study of mathematical models for population dynamics and biodiversity distribution </li>", 
-        "<li> Completed: 5 months scholarship: Studio di modelli epidemiologici caratterizzati da classi non omogenee con applicazione a Covid-19 </li>", 
+        "<li> Ongoing: 12 months postdoc: ''Analytical and numerical methods for graph signal processing'' </li>", 
+        "<li> Completed: 6 months scholarship: ''Mathematical modeling and analysis of biological systems'' </li>", 
+        "<li> Completed: 8 months scholarship: ''Study of mathematical models for population dynamics and biodiversity distribution'' </li>", 
+        "<li> Completed: 5 months scholarship: ''Studio di modelli epidemiologici caratterizzati da classi non omogenee con applicazione a Covid-19'' </li>", 
        "</ul>"
       ]
     },
        {
       "title": "Thesis Proposals",
       "text": [
-        "<ul><li>Completed:", 
-        "<li> Martina Salvia, An epidemiological mathematical model assuming non well-mixed population, an application to Covid-19. Bachelor in Mathematics, Università di Basilicata, 24/02/2022. </li>",
-        "<li> Stefania Allegretti, Modeling oncolytic virotherapy. Bachelor in Mathematics, Università di Basilicata, 19/07/2022 </li>", 
-        "</li></ul>" 
+        "<ul>", 
+        "<li> Completed: Martina Salvia, An epidemiological mathematical model assuming non well-mixed population, an application to Covid-19. Bachelor in Mathematics, Università di Basilicata, 24/02/2022. </li>",
+        "<li> Completed: Stefania Allegretti, Modeling oncolytic virotherapy. Bachelor in Mathematics, Università di Basilicata, 19/07/2022 </li>", 
+        "</ul>" 
       ]
     },
     {
       "title": "Courses",
       "text": [
          "<ul>",
+        "<li>2024/25. <a href=\"https://www.matematica.unito.it/do/corsi.pl/Show?_id=ka0k\"><i> Numerical Analysis II.</i></a> Professor, Bachelor in Mathematics, Unito.  </li>",
+        "<li>2024/25. <a href=\"https://www.matematica.unito.it/do/corsi.pl/Show?_id=94rm\"><i>Advanced Numerical Analysis .</i></a> Professor, Bachelor in Mathematics, Unito.  </li>",
+        "<li>2024/25. <i>Didattica della matematica: la costruzione del ragionamento matematico e fondamenti matematici .</i></a> Professor, Training courses for school teaching class A28, Uniss. </li>",
+        "<li>2024/25. <a href=\"https://uniss.coursecatalogue.cineca.it/insegnamenti/2024/19090-1/2023/9999/10923?coorte=2024&adCodRadice=A003812\"><i>Mathematics .</i></a> Professor, Bachelor in CTF (Chemistry and Pharmaceutical Technology), Uniss. </li>",
+        "<li>2023/24. <a href=\"https://uniss.coursecatalogue.cineca.it/insegnamenti/2023/19090-2/2023/9999/10923?coorte=2023&adCodRadice=A003812\"><i>Mathematics .</i></a> Professor, Bachelor in CTF (Chemistry and Pharmaceutical Technology), Uniss. </li>",
          "<li>2022/23. <a href=\"https://www.uniss.it/ugov/degreecourse/214598\"><i>Mathematics .</i></a> Professor, Bachelor in CTF (Chemistry and Pharmaceutical Technology), Uniss. </li>",
          "<li>2021/22. <a href=\"https://www.uniss.it/ugov/degreecourse/174747\"><i>Mathematics .</i></a> Professor, Bachelor in Pharmacy, Uniss.  </li>",
          "<li>2020/21. <a href=\"http://matematica.unibas.it/site/home/triennale/insegnamenti.html\" target=\"_blank\"><i>Complements in Numerical Analysis .</i></a> Professor, Bachelor in Mathematics, Unibas. </li>",
