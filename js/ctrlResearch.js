@@ -217,6 +217,21 @@ app.controller('researchCtrl', function($scope, $rootScope, $routeParams, $locat
                 return content;
               }
   }, {
+     /*------------------------------
+      grants/ prizes/ awards
+    ------------------------------*/
+    title:    "Grants",
+    maxlen:   5,
+    painter:  function(db) {
+                let content = partitionDates(db.news, function(x) {
+                  return x.type == "Grants";
+                });
+                addByKeyword(content, db.news, false, formatOther, function(x) {
+                  return x.type != "Grants" ? [] : [getDate(x), getYear(x)];
+                });
+                return content;
+              }
+  }, {
     /*------------------------------
       events page
     ------------------------------*/
