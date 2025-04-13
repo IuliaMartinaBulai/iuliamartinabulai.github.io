@@ -833,14 +833,14 @@
       "title":    "MGR grant",
       "subtitle": "MGR (Mobilità Giovanni Ricercatori) 2024 research grant, as PI. Title: ''Mathematical modeling and control theory'', 12.300 euro",
       "link":     "",
-      "type":     "Grant",
+      "type":     "Grants",
       "_date":    "24.04.01"
     },
     {
       "title":    "PRIN grant",
       "subtitle": "PRIN 2022 research grant (PE1), as PI: TIme-varying signals on Graphs: REal and COmplex methods - TIGRECO, 187.500 euro",
       "link":     "",
-      "type":     "Grant",
+      "type":     "Grants",
       "_date":    "23.06.01"
     }, 
    {
@@ -1045,7 +1045,7 @@
       "title":    "INdAM grant",
       "subtitle": "Finanziamento GNCS Giovani Ricercatori 2021–2022, 1500 euro",
       "link":     "",
-      "type":     "Grant",
+      "type":     "Grants",
       "_date":    "21.11.1"
     }, 
     {
@@ -1153,7 +1153,7 @@
       "title":    "INdAM grant",
       "subtitle": "Finanziamento GNCS Giovani Ricercatori 2020–2021, 1500 euro",
       "link":     "",
-      "type":     "Grant",
+      "type":     "Grants",
       "_date":    "20.10.1"
     }, 
      {
@@ -1165,9 +1165,9 @@
     },
               {
       "title":    "RIL Grant (ricerca scientifica di interesse locale)",
-      "subtitle": " Research grant 2020-2022, 960 EUR",
+      "subtitle": " Research grant as PI 2020-2022, 960 EUR",
       "link":     "",
-      "type":     "Grant",
+      "type":     "Grants",
       "_date":    "20.06.1"
     }, 
           {
@@ -1209,9 +1209,9 @@
     },
            {
       "title":    "INdAM - GNCS Project 2020: research grant",
-      "subtitle": "Research project (as member of RITA), 2020–2021, 6400 euro",
+      "subtitle": "Research project as member, 2020–2021, 6400 euro",
       "link":     "",
-      "type":     "Grant",
+      "type":     "Grants",
       "_date":    "20.03.1"
     }, 
                                     {
@@ -1282,14 +1282,14 @@
       "title":    "SNSF grant",
       "subtitle": "Travel Grant 2020, 200 CHF",
       "link":     "",
-      "type":     "Grant",
+      "type":     "Grants",
       "_date":    "20.01.28"
     }, 
       {
       "title":    "SMB grant",
       "subtitle": "Landahl Travel Grants 2019, 500 USD",
       "link":     "",
-      "type":     "Grant",
+      "type":     "Grants",
       "_date":    "19.06.20"
     },  
       {
@@ -1345,7 +1345,7 @@
       "title":    "INdAM grant",
       "subtitle": "Finanziamento GNCS Giovani Ricercatori 2018–2019, 1200 euro",
       "link":     "",
-      "type":     "Grant",
+      "type":     "Grants",
       "_date":    "18.10.8"
     }, 
         {
@@ -1373,14 +1373,14 @@
       "title":    "Financial support",
       "subtitle": "Financial support to participate at 2018 Joint CAMBAM/NSERC-CREATE in Complex Dynamics Summer School, Montreal–CAN, June 2018",
       "link":     "",
-      "type":     "Grant",
+      "type":     "Grants",
       "_date":    "18.06.01"
     },
      {
       "title":    "SMB grant",
       "subtitle": "Landahl Travel Grants 2018, 750 USD",
       "link":     "",
-      "type":     "Grant",
+      "type":     "Grants",
       "_date":    "18.04.01"
     },  
       {
@@ -1415,7 +1415,7 @@
       "title":    "SMB grant",
       "subtitle": "SMB Financial Aid Grant BIOMATH 2016",
       "link":     "",
-      "type":     "Grant",
+      "type":     "Grants",
       "_date":    "16.04.13"
     }, 
     {
@@ -1476,7 +1476,7 @@
       "title":    "INdAM grant",
       "subtitle": "Finanziamento GNCS Giovani Ricercatori 2016/2017, 1200 euro",
       "link":     "",
-      "type":     "Grant",
+      "type":     "Grants",
       "_date":    "16.10.01"
     },  
                             {
@@ -1490,7 +1490,7 @@
       "title":    "Erasmus Traineeship grant",
       "subtitle": " Erasmus Traineeship grant, 29 July–30 September 2016, University of Osnabrueck, Germany",
       "link":     "",
-      "type":     "Grant",
+      "type":     "Grants",
       "_date":    "16.07.29"
     },
                                     {
@@ -1610,7 +1610,7 @@
       "title":    "Financial support",
       "subtitle": "Financial support to participate at V Southern-Summer School on Mathematical Biology and School on Physics Applications in Biology, San Paolo–BR, January 2016",
       "link":     "",
-      "type":     "Grant",
+      "type":     "Grants",
       "_date":    "16.01.01"
     },
                                                                                               {
