@@ -829,6 +829,27 @@
       "type":     "Event",
       "_date":    "23.06.22"
     },
+                    {
+      "title":    "2 funded fellowships ICTP-INdAM",
+      "subtitle":  "ICTP-INdAM Collaborative Grants and Research in Pairs - 2024-2025 at the Abdus Salam International Centre for Theoretical Physics from 08 June 2025 to 22 June 2025, Trieste, Italy.",
+      "link":     "",
+      "type":     "Grants",
+      "_date":    "25.06.01"
+    },
+                {
+      "title":    "INdAM–GNCS research grant",
+      "subtitle": "INdAM–GNCS Project 2025-2026, as member. Title: ''Metodi di approssimazione globale per operatori integrali e applicazioni alle equazioni funzionali'', 3.200 euro.",
+      "link":     "",
+      "type":     "Grants",
+      "_date":    "25.02.01"
+    },
+            {
+      "title":    "University research grant (UNISS)",
+      "subtitle": "DM 737/2021, Bando interno per la ricerca collaborativa tra Ateneo di Sassari e Ateneo di Cagliari 2024, as member. Title: ''Studio di modelli nelle scienze della vita'', 19.673,23 euro.",
+      "link":     "",
+      "type":     "Grants",
+      "_date":    "24.06.01"
+    },
         {
       "title":    "MGR grant",
       "subtitle": "MGR (Mobilità Giovanni Ricercatori) 2024 research grant, as PI. Title: ''Mathematical modeling and control theory'', 12.300 euro",
@@ -842,6 +863,27 @@
       "link":     "",
       "type":     "Grants",
       "_date":    "23.06.01"
+    }, 
+               {
+      "title":    "University research grant (UNISS)",
+      "subtitle": "Interdisciplinary research projects, 2023-2025, as member. Title: ''RIACT - RIpristino degli Ambienti Costieri con approcci Transdisciplinari'', 34.762,18 euro.",
+      "link":     "",
+      "type":     "Grants",
+      "_date":    "23.4.1"
+    }, 
+           {
+      "title":    "Fondazione Sardegna grant",
+      "subtitle": "Progetti di ricerca di base dipartimentali, 2023–2024, as member. Title: ''Sviluppo di un sistema di monitoring ambientale e di early warning per i cambiamenti climatici e possibili effetti sulla dinamica delle popolazioni'', 73.300 euro.",
+      "link":     "",
+      "type":     "Grants",
+      "_date":    "23.2.1"
+    }, 
+       {
+      "title":    "INdAM grant",
+      "subtitle": "INdAM–GNCS Project 2023–2024, as member. Title: ''Approssimazione ed integrazione multivariata con applicazioni ad equazioni integrali'', 6600 euro",
+      "link":     "",
+      "type":     "Grants",
+      "_date":    "23.12.1"
     }, 
    {
       "title":    "Invited contributed talk",
@@ -877,12 +919,6 @@
       "link":     "https://sites.google.com/view/atma2023",
       "type":     "Event",
       "_date":    "23.01.15"
-    },
-   {
-      "title":    "Corso Matematica. Bachelor in Chemistry and pharmaceutical technology, Uniss, Sassari",
-      "subtitle": "Uniss, 2022/2023",
-      "type":     "Position",
-      "_date":    "22.10.01"
     },
    {
       "title":    "Talk",
@@ -932,12 +968,6 @@
       "type":     "Position",
       "_date":    "22.01.01"
     }, 
-    {
-      "title":    "Corso Matematica. Bachelor in Pharmacy, Uniss, Sassari",
-      "subtitle": "Uniss, 2021/2022",
-      "type":     "Position",
-      "_date":    "21.10.01"
-    },
     {
       "title":    "Poster",
       "subtitle": "Virtual SIAM Conference on Analysis of Partial Differential Equations (PD22), March 2022",
@@ -1043,7 +1073,7 @@
     },
    {
       "title":    "INdAM grant",
-      "subtitle": "Finanziamento GNCS Giovani Ricercatori 2021–2022, 1500 euro",
+      "subtitle": "Finanziamento GNCS Giovani Ricercatori 2021–2022, as PI. Title: ''Wavelet packets approximation on graphs'', 1500 euro",
       "link":     "",
       "type":     "Grants",
       "_date":    "21.11.1"
@@ -1151,7 +1181,7 @@
     },
            {
       "title":    "INdAM grant",
-      "subtitle": "Finanziamento GNCS Giovani Ricercatori 2020–2021, 1500 euro",
+      "subtitle": "Finanziamento GNCS Giovani Ricercatori 2020–2021, as PI. Title: ''Modeling Covid-19 considering asymptomatic cases and avoid contacts'', 1500 euro",
       "link":     "",
       "type":     "Grants",
       "_date":    "20.10.1"
@@ -1165,7 +1195,7 @@
     },
               {
       "title":    "RIL Grant (ricerca scientifica di interesse locale)",
-      "subtitle": " Research grant as PI 2020-2022, 960 EUR",
+      "subtitle": " Research grant 2020-2022, as PI. Title: ''Modelli matematici per il Covid-19'', 960 EUR",
       "link":     "",
       "type":     "Grants",
       "_date":    "20.06.1"
@@ -1209,7 +1239,7 @@
     },
            {
       "title":    "INdAM - GNCS Project 2020: research grant",
-      "subtitle": "Research project as member, 2020–2021, 6400 euro",
+      "subtitle": "Research project 2020–2021, as member. Title: ''Approssimazione multivariata ed equazioni funzionali per la modellistica numerica'', 6400 euro",
       "link":     "",
       "type":     "Grants",
       "_date":    "20.03.1"
@@ -1242,21 +1272,7 @@
       "link":     "",
       "type":     "Event",
       "_date":    "19.01.01"
-    },
-            {
-      "title":    "Corso Complementi di Calcolo scientifico. Bachelor in Mathematics, Unibas, Potenza",
-      "subtitle": "Unibas, 2020/2021",
-      "type":     "Position",
-      "_date":    "21.03.01"
-    },
-    
-        {
-      "title":    "Corso Complementi di Calcolo scientifico. Bachelor in Mathematics, Unibas, Potenza",
-      "subtitle": "Unibas, 2019/2020",
-      "type":     "Position",
-      "_date":    "20.03.01"
-    },
- 
+    }, 
          {
       "title":    "Invited contributed talk",
       "subtitle": "Convegno e Assemblea GNCS 2020, Montecatini Terme– IT, February 2020",
@@ -1343,7 +1359,7 @@
     }, 
        {
       "title":    "INdAM grant",
-      "subtitle": "Finanziamento GNCS Giovani Ricercatori 2018–2019, 1200 euro",
+      "subtitle": "Finanziamento GNCS Giovani Ricercatori 2018–2019, as PI. Title: ''Fermare le onde: un analisi geometrica del modello discreto PDE di beta-celle accoppiate'', 1200 euro",
       "link":     "",
       "type":     "Grants",
       "_date":    "18.10.8"
@@ -1474,7 +1490,7 @@
     },
                         {
       "title":    "INdAM grant",
-      "subtitle": "Finanziamento GNCS Giovani Ricercatori 2016/2017, 1200 euro",
+      "subtitle": "Finanziamento GNCS Giovani Ricercatori 2016/2017, as PI. Title: ''Eficienza dell’immobilizzazione dei funghi su supporti di forme geometriche diverse, un modello matematico'', 1200 euro",
       "link":     "",
       "type":     "Grants",
       "_date":    "16.10.01"
