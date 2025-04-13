@@ -605,6 +605,55 @@
     }
   ],
   "news": [
+       {
+      "title":    "Participant",
+      "subtitle": "Workshop Software for Approximation, SA2025, Torino–IT, February 2025",
+      "link":     "https://sites.google.com/view/sa2025/home?authuser=0",
+      "type":     "Event",
+      "_date":    "24.02.05"
+    },
+   {
+      "title":    "Participant",
+      "subtitle": "16th Conference on Dynamical Systems Applied to Biology and Natural Sciences (DSABNS 2024), Napoli-IT, January 2025",
+      "link":     "https://sites.google.com/view/dsabns2025/home",
+      "type":     "Event",
+      "_date":    "24.01.20"
+    },
+   {
+      "title":    "Contributed talk",
+      "subtitle": "Joint annual meeting of the Korean Society for Mathematical Biology and the Society for Mathematical Biology (KSMB-SMB) Seoul–KOR, June/July 2024",
+      "link":     "http://smb2024.org/",
+      "type":     "Event",
+      "_date":    "24.06.30"
+    },
+   {
+      "title":    "Participant",
+      "subtitle": "SIAM Conference on Life Sciences (LS24) Held Jointly with Mathematics of Planet Earth (MPE24) Portland–USA, June 2024",
+      "link":     "https://www.siam.org/conferences-events/past-event-archive/ls24/",
+      "type":     "Event",
+      "_date":    "24.06.10"
+    },
+                {
+      "title":    "Contributed talk",
+      "subtitle": "International Conference on Differential Equations: Theory and Applications (ICDE), Forth Myers–USA, May/July 2024",
+      "link":     "https://awm-math.org/event/international-conference-on-differential-equations-theory-applications-icde/",
+      "type":     "Event",
+      "_date":    "24.05.31"
+    },
+            {
+      "title":    "Contributed talk",
+      "subtitle": "Biology and Medicine Trough Mathematics Conference (BAMM), Richmond–USA, May 2024",
+      "link":     "https://scholarscompass.vcu.edu/bamm/",
+      "type":     "Event",
+      "_date":    "24.05.15"
+    },
+        {
+      "title":    "Participant",
+      "subtitle": "Convegno e Assemblea GNCS 2024, Rimini–IT, February 2024",
+      "link":     "https://www.altamatematica.it/gncs/2024/01/09/convegno-e-assemblea-gncs-2024/",
+      "type":     "Event",
+      "_date":    "24.02.14"
+    },
     {
       "title":    "Invited talk",
       "subtitle": "Santaló school Data Science, Signal Processing and Harmonic Analysis, Buenos Aires-AR, August 2024",
