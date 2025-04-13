@@ -246,10 +246,24 @@ app.controller('researchCtrl', function($scope, $rootScope, $routeParams, $locat
                 return content;
               }
   },{
+  /*------------------------------
+      upervision page
+    ------------------------------*/
+    title:    "Supervision",
+    painter:  function(db) {
+                for (let d of db.supervision) {
+                  d._template = "box";
+                  d._color = "#c9f2c9";
+                  d._dim = boxHeight(d.text);
+                  d._show = true;
+                }
+                return db.supervision;
+              }
+  },{
     /*------------------------------
       teaching page
     ------------------------------*/
-    title:    "Supervision/Teaching",
+    title:    "Teaching",
     painter:  function(db) {
                 for (let d of db.teaching) {
                   d._template = "box";
