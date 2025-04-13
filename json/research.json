@@ -787,6 +787,13 @@
       "type":     "Event",
       "_date":    "23.06.22"
     },
+        {
+      "title":    "MGR grant",
+      "subtitle": "MGR (Mobilità Giovanni Ricercatori) 2024 research grant, as PI. Title: ''Mathematical modeling and control theory'', 12.300 euro",
+      "link":     "",
+      "type":     "Grant",
+      "_date":    "24.04.01"
+    },
     {
       "title":    "PRIN grant",
       "subtitle": "PRIN 2022 research grant (PE1), as PI: TIme-varying signals on Graphs: REal and COmplex methods - TIGRECO, 187.500 euro",
