@@ -605,6 +605,34 @@
     }
   ],
   "news": [
+                       {
+      "title":    "Software released",
+      "subtitle": "SGWPT: Spectral Graph Wavelet Packet Transform Toolbox. Developed by Iulia Martina Bulai, Sandra Saliani",
+      "link":     "https://github.com/IuliaMartinaBulai/SGWPT_Toolbox",
+      "type":     "Software",
+      "_date":    "22.12.01"
+    },
+                   {
+      "title":    "Software released",
+      "subtitle": "VIE-Toolbox: Volterra Integral Equation Toolbox. Developed by Iulia Martina Bulai, Maria Carmela De Bonis, Concetta Laurita, Valeria Sagaria",
+      "link":     "https://github.com/IuliaMartinaBulai/VIE_Toolbox",
+      "type":     "Software",
+      "_date":    "23.02.01"
+    },
+               {
+      "title":    "Software released",
+      "subtitle": "MTGM: Metastatic Tumor Growth Modeling Toolbox. Developed by Iulia Martina Bulai, Maria Carmela De Bonis, Concetta Laurita",
+      "link":     " https://github.com/IuliaMartinaBulai/MPSC_Toolbox",
+      "type":     "Software",
+      "_date":    "24.02.01"
+    },
+           {
+      "title":    "Software released",
+      "subtitle": "MPSC: Model Plant Species Competition Toolbox. Developed by Iulia Martina Bulai, Giulia Orrù",
+      "link":     "https://github.com/IuliaMartinaBulai/MTGM_Toolbox",
+      "type":     "Software",
+      "_date":    "25.02.01"
+    },
        {
       "title":    "Participant",
       "subtitle": "Workshop Software for Approximation, SA2025, Torino–IT, February 2025",
