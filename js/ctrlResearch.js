@@ -247,7 +247,7 @@ app.controller('researchCtrl', function($scope, $rootScope, $routeParams, $locat
               }
   },{
   /*------------------------------
-      upervision page
+      supervision page
     ------------------------------*/
     title:    "Supervision",
     painter:  function(db) {
