@@ -150,17 +150,17 @@ app.controller('researchCtrl', function($scope, $rootScope, $routeParams, $locat
     teaser:   true,
     painter:  function(db) {
                let highlighs = partitionDates(db.news, function(x) {
-                  return ["Prize", "Project", "Grant", "Event", "Position"].includes(x.type);
+                  return ["Prize", "Project", "Grant", "Event", "Position","Software"].includes(x.type);
                 });
                 addByKeyword(highlighs, db.news, false, formatOther, function(x) {
-                  return ["Prize", "Project", "Grant", "Event", "Position"].includes(x.type) ? [getDate(x), getYear(x)] : [];
+                  return ["Prize", "Project", "Grant", "Event", "Position", "Software"].includes(x.type) ? [getDate(x), getYear(x)] : [];
                 }); 
                 let data = db.publications.concat(db.news); 
                 let updates = partitionDates(data, function(x) {
-                  return !(["Lecture Notes", "Submitted Preprints", "Prize", "Project", "Grant", "Event", "Position"].includes(x.type));
+                  return !(["Lecture Notes", "Submitted Preprints", "Prize", "Project", "Grant", "Event", "Position", "Software"].includes(x.type));
                 });
                 addByKeyword(updates, data, false, formatAll, function(x) {
-                  return ["Lecture Notes", "Submitted Preprints", "Prize", "Project", "Grant", "Event", "Position"].includes(x.type) ? [] : [getDate(x), getYear(x)];
+                  return ["Lecture Notes", "Submitted Preprints", "Prize", "Project", "Grant", "Event", "Position", "Software"].includes(x.type) ? [] : [getDate(x), getYear(x)];
                 });
                 return [
                                     {
@@ -237,13 +237,13 @@ app.controller('researchCtrl', function($scope, $rootScope, $routeParams, $locat
     ------------------------------*/
     title:    "Software",
     painter:  function(db) {
-                for (let d of db.software) {
-                  d._template = "box";
-                  d._color = "#c9f2c9";
-                  d._dim = boxHeight(d.text);
-                  d._show = true;
-                }
-                return db.software;
+                let content = partitionDates(db.news, function(x) {
+                  return x.type == "Software";
+                });
+                addByKeyword(content, db.news, false, formatOther, function(x) {
+                  return x.type != "Software" ? [] : [getDate(x), getYear(x)];
+                });
+                return content;
               }
   },{
     /*------------------------------
