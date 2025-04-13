@@ -177,6 +177,7 @@ app.controller('researchCtrl', function($scope, $rootScope, $routeParams, $locat
                   {
                     title:      "News Highlights",
                     items:      highlighs,
+                     maxlen:     5,
                     _template:  "section"
                   }, {
                     title:      "Live Updates",
@@ -231,6 +232,20 @@ app.controller('researchCtrl', function($scope, $rootScope, $routeParams, $locat
                 return content;
               }
   }, {
+  /*------------------------------
+      software page
+    ------------------------------*/
+    title:    "Software",
+    painter:  function(db) {
+                for (let d of db.software) {
+                  d._template = "box";
+                  d._color = "#c9f2c9";
+                  d._dim = boxHeight(d.text);
+                  d._show = true;
+                }
+                return db.software;
+              }
+  },{
     /*------------------------------
       teaching page
     ------------------------------*/
