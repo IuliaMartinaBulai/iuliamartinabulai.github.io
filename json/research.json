@@ -605,146 +605,195 @@
     }
   ],
   "news": [
-                                                            {
+    {
+      "title":    "Invited talk",
+      "subtitle": "Santaló school Data Science, Signal Processing and Harmonic Analysis, Buenos Aires-AR, August 2024",
+      "link":     "https://sites.google.com/view/santalo-school-2024/home",
+      "type":     "Event",
+      "_date":    "24.08.05"
+    },
+    {
+      "title":    "Invited contributed talk",
+      "subtitle": "2st International American Mathematical Society (AMS) and Unione Matematica Italiana (UMI) Joint Meeting, Palermo-IT, July 2024",
+      "link":     "https://umi.dm.unibo.it/jm-umi-ams/",
+      "type":     "Event",
+      "_date":    "24.07.23"
+    },
+    {
+      "title":    "Invited talk",
+      "subtitle": "University of Tennessee, Mathematics Department, Tennessee-USA, May 2024",
+      "link":     "",
+      "type":     "Event",
+      "_date":    "24.05.13"
+    },
+    {
+      "title":    "Invited talk",
+      "subtitle": "Workshop TIGRECO 2024 ''TIme-varying signals on Graphs: REal and COmplex methods'', Bergamo-IT, April 2024",
+      "link":     "https://sites.google.com/view/tigreco/workshop-2024",
+      "type":     "Event",
+      "_date":    "24.04.15"
+    },
+    {
+      "title":    "Invited talk",
+      "subtitle": "Global Woman Breakfast Uniss (GWB 2024), Sassari-IT, February 2024",
+      "link":     "https://www.uniss.it/it/eventi/global-womens-breakfast-2024-catalyzing-diversity-science",
+      "type":     "Event",
+      "_date":    "24.02.27"
+    },
+   {
+      "title":    "Invited contributed talk",
+      "subtitle": "15th Conference on Dynamical Systems Applied to Biology and Natural Sciences (DSABNS 2024), Lisbona-PT, February 2024",
+      "link":     "https://sites.google.com/view/dsabns2024/home",
+      "type":     "Event",
+      "_date":    "24.02.06"
+    },
+  {
+      "title":    "Invited contributed talk",
+      "subtitle": "Scientific toolkit for kernel-based approximation and its applications (SToK 2023), Camerino-IT, December 2023",
+      "link":     "https://stok.unicam.it/",
+      "type":     "Event",
+      "_date":    "23.12.05"
+    },
+   {
       "title":    "Invited contributed talk",
       "subtitle": "International Association for Mathematics and Computers in Simulations (IMACS), Roma-IT, September 2023",
-      "link":     "",
+      "link":     "https://www.imacs-online.eu/event/imacs-2023/",
       "type":     "Event",
       "_date":    "23.09.14"
     },
-                                                                {
+    {
       "title":    "Invited contributed talk",
       "subtitle": "International Conference of Numerical Analysis and Applied Mathematics (ICNAAM), Crete-EL, September 2023",
-      "link":     "",
+      "link":     "https://history.icnaam.org/icnaam_2023/icnaam.org/index.html",
       "type":     "Event",
       "_date":    "23.09.12"
     },
-                                                        {
+  {
       "title":    "Two invited contributed talks",
       "subtitle": "Italian Society of Applied and Industrial Mathematics (SIMAI), Matera-IT, August 2023",
-      "link":     "",
+      "link":     "https://web.unibas.it/simai2023/",
       "type":     "Event",
       "_date":    "23.08.28"
     },
-                                                    {
+  {
       "title":    "Invited contributed talk",
       "subtitle": "SIAM Conference on Control and Its Applications (CT23), Philadelphia, Pennsylvania-USA, July 2023",
-      "link":     "",
+      "link":     "https://www.siam.org/conferences-events/past-event-archive/ct23/",
       "type":     "Event",
       "_date":    "23.07.26"
     },
-                                                 {
+   {
       "title":    "Contributed talk",
       "subtitle": "Annual Meeting of the Society for Mathematical Biology (SMB), Columbus–USA, July 2023",
-      "link":     "",
+      "link":     "https://2023.smb.org/",
       "type":     "Event",
       "_date":    "23.07.20"
     },
-                                                     {
+    {
       "title":    "Poster",
       "subtitle": "Dynamical Systems in the Life Sciences Conference (DSLS23), Columbus–USA, July 2023",
-      "link":     "",
+      "link":     "https://sites.google.com/d.umn.edu/dsls2023/home",
       "type":     "Event",
       "_date":    "23.07.13"
     },
-                                                 {
+   {
       "title":    "Invited contributed talk",
       "subtitle": "Workshop At the interface of Agriculture, Artificial Intelligence, Mathematics and Earth Observation applications (MathAIEOapp), Bari-IT, July 2023",
-      "link":     "",
+      "link":     "https://agenda.infn.it/event/35402/",
       "type":     "Event",
       "_date":    "23.07.06"
     },
-                                             {
+   {
       "title":    "Contributed talk",
       "subtitle": "International Conference on Approximation Theory and Application, UMI-TAA, Cetraro–IT, June 2023",
-      "link":     "",
+      "link":     "https://umi-taa.sites.dmi.unipg.it/congress_home.html",
       "type":     "Event",
       "_date":    "23.06.22"
     },
-                   {
+    {
       "title":    "PRIN grant",
       "subtitle": "PRIN 2022 research grant (PE1), as PI: TIme-varying signals on Graphs: REal and COmplex methods - TIGRECO, 187.500 euro",
       "link":     "",
       "type":     "Grant",
       "_date":    "23.06.01"
     }, 
-                                                 {
+   {
       "title":    "Invited contributed talk",
       "subtitle": "Challenges and Advances in Numerical Analysis (CaNA), Cagliari-IT, June 2023",
-      "link":     "",
+      "link":     "https://bugs.unica.it/cana23/",
       "type":     "Event",
       "_date":    "23.06.06"
     },
-                                         {
+  {
       "title":    "Contributed talk",
       "subtitle": "Workshop Modellistica Socio-Epidemiologica, MSE, Napoli–IT, May 2023",
-      "link":     "",
+      "link":     "https://mseumi.wordpress.com/workshop-mse/",
       "type":     "Event",
       "_date":    "23.05.18"
     },
-              {
+    {
       "title":    "ASN MAT/08, 30.01.2023-30.01.2033",
       "subtitle": "Abilitazione Scientifica Nazionale per Professore di II fascia in MAT/08 (National Scientific Qualification for Associate Professor in Numerical Analysis)",
       "text":     [""],
       "type":     "Position",
       "_date":    "23.01.30"
     },
-                                           {
+   {
       "title":    "Participant",
       "subtitle": "Workshop Software for Approximation, SA2023, Torino-IT, February 2023",
-      "link":     "",
+      "link":     "https://sites.google.com/view/sa2023torino",
       "type":     "Event",
       "_date":    "23.02.10"
     },
-                                       {
+   {
       "title":    "Participant",
       "subtitle": "Approximation: Theory, Methods and Applications, ATMA2023, Padova-IT, January 2023",
-      "link":     "",
+      "link":     "https://sites.google.com/view/atma2023",
       "type":     "Event",
       "_date":    "23.01.15"
     },
-                {
+   {
       "title":    "Corso Matematica. Bachelor in Chemistry and pharmaceutical technology, Uniss, Sassari",
       "subtitle": "Uniss, 2022/2023",
       "type":     "Position",
       "_date":    "22.10.01"
     },
-                                   {
+   {
       "title":    "Talk",
       "subtitle": "GIMC (Gruppo Italiano di Meccanica Computazionale) SIMAI (Società Italiana di Matematica Applicata e Industriale) YOUNG 2022 Workshop, Pavia-IT, September 2022",
-      "link":     "",
+      "link":     "http://gimcsimaiyoung2022.unipv.it/workshop/",
       "type":     "Event",
       "_date":    "22.09.29"
     },
-                                     {
+   {
       "title":    "Invited contributed talk",
       "subtitle": "Functional Analysis, Approximation Theory and Numerical Analysis, Matera-IT, July 2022",
-      "link":     "",
+      "link":     "https://web.unibas.it/faatna22/",
       "type":     "Event",
       "_date":    "22.07.05"
     },
-                                 {
+   {
       "title":    "Invited contributed talk",
       "subtitle": "Models in Population Dynamics, Ecology and Evolution, Torino–IT, June 2022",
-      "link":     "",
+      "link":     "https://sites.google.com/view/mpdee2022",
       "type":     "Event",
       "_date":    "22.06.13"
     },
-                                 {
-      "title":    "Invited contributed talk",
+   {
+      "title":    "Invited talk",
       "subtitle": "Convegno e Assemblea GNCS, Montecatini Terme–IT, June 2022",
-      "link":     "",
+      "link":     "https://www.altamatematica.it/gncs/2021/11/11/convegno-e-assemblea-gncs-2022/",
       "type":     "Event",
       "_date":    "22.06.22"
     },
-              {
+   {
       "title":    "Think tank on Scientific Computing and funding opportunities Prize",
       "subtitle": "Team first classified (me as PI) to the PROPOSAL GAMIFICATION DAY of the workshop Think tank on Scientific Computing and funding opportunities, Camerino 18-19 June 2021.",
-      "link":     "",
+      "link":     "https://www.unicam.it/eventi/2021/think-tank-scientific-computing-and-funding-opportunities",
       "type":     "Prize",
       "_date":    "21.06.18"
     }, 
-                    {
+    {
       "title":    "Editorial Activity",
       "subtitle": "Program commitee for: International Conference on Complex Networks and their Applications 2021",
       "type":     "Event",
@@ -757,191 +806,191 @@
       "type":     "Position",
       "_date":    "22.01.01"
     }, 
-            {
+    {
       "title":    "Corso Matematica. Bachelor in Pharmacy, Uniss, Sassari",
       "subtitle": "Uniss, 2021/2022",
       "type":     "Position",
       "_date":    "21.10.01"
     },
-                                                   {
+    {
       "title":    "Poster",
       "subtitle": "Virtual SIAM Conference on Analysis of Partial Differential Equations (PD22), March 2022",
-      "link":     "",
+      "link":     "https://www.siam.org/conferences-events/past-event-archive/pd22/",
       "type":     "Event",
       "_date":    "22.03.12"
     },
 
-                                           {
+  {
       "title":    "Participant",
       "subtitle": "Winter Workshop on Complex System, Besancon–FR, 2022",
-      "link":     "",
+      "link":     "https://wwcs2022.github.io/",
       "type":     "Event",
       "_date":    "22.01.24"
     },
-                                           {
+   {
       "title":    "Talk",
       "subtitle": "10th International Conference on Complex Networks and their Applications, On-line, November/December 2021",
-      "link":     "",
+      "link":     "https://www.insna.org/events/complex-networks-2021",
       "type":     "Event",
       "_date":    "21.11.30"
     },
-                                   {
+   {
       "title":    "Talk",
       "subtitle": "Approximation: Theory, Methods and applications, ATMA2021, Reggio Calabria, November 2021",
-      "link":     "",
+      "link":     "http://www.atma2021.unirc.it/",
       "type":     "Event",
       "_date":    "21.11.10"
     },
        
-                    {
+  {
       "title":    "Invited contributed talk",
       "subtitle": "Virtual 5th Dolomites Workshop on Constructive Approximation and Applications, September 2021",
-      "link":     "",
+      "link":     "https://events.math.unipd.it/dwcaa21/node/15",
       "type":     "Event",
       "_date":    "21.09.6"
     },
 
  
-                               {
+  {
       "title":    "Talk",
       "subtitle": "Virtual International Conference on Computational Harmonic Analysis, ICCHA2021, September 2021",
-      "link":     "",
+      "link":     "https://ps-mathematik.univie.ac.at/e/index.php?event=ICCHA2021online",
       "type":     "Event",
       "_date":    "21.09.13"
     },
-                           {
+   {
       "title":    "Talk",
       "subtitle": "Virtual 13th International Society for Analysis its Applications and Computations (ISAAC) Congress 2021, August 2021",
-      "link":     "",
+      "link":     "https://cage.ugent.be/isaac2021/",
       "type":     "Event",
       "_date":    "21.08.02"
     },
-                     {
+    {
       "title":    "Invited contributed talk",
       "subtitle": "Virtual ECCOMAS Young Investigators, July 2021",
-      "link":     "",
+      "link":     "https://eccomas.org/2020/09/21/6th-eccomas-young-investigators-conference-2021/",
       "type":     "Event",
       "_date":    "21.07.6"
     },
 
-                       {
+   {
       "title":    "Talk",
       "subtitle": "Virtual SMB Mathematical Epidemiology and Math Education Joint Workshop, February 2021",
       "link":     "",
       "type":     "Event",
       "_date":    "21.02.01"
     },
-                   {
+    {
       "title":    "Participant",
       "subtitle": "Virtual Winter Workshop on Complex Systems, February 2021",
       "link":     "",
       "type":     "Event",
       "_date":    "21.02.01"
     },
-                     {
+   {
       "title":    " Steering Committee member",
       "subtitle": "Member of the Steering Committee for Conference on Complex Systems, CCS, 2020-2023",
-      "link":     "",
+      "link":     "https://cssociety.org/ccs/steering-committee",
       "type":     "Position",
       "_date":    "20.11.01"
     }, 
-                 {
+    {
       "title":    "Council member",
       "subtitle": "Council member of Complex System Society, CCS, 2020-2023",
-      "link":     "",
+      "link":     "https://cssociety.org/ccs/steering-committee",
       "type":     "Position",
       "_date":    "20.12.01"
     }, 
-              {
+   {
       "title":    "Poster",
       "subtitle": "Virtual Annual Conference on Complex Systems (ECCS or CCS), December 2020",
-      "link":     "",
+      "link":     "https://cssociety.org/ccs",
       "type":     "Event",
       "_date":    "20.12.07"
     }, 
-         {
+    {
       "title":    "Member",
       "subtitle": "Member of Modellistica Socio-Epidemiologica, MSE, 2021-present",
       "link":     "",
       "type":     "Event",
       "_date":    "21.01.01"
     },
-               {
+   {
       "title":    "INdAM grant",
       "subtitle": "Finanziamento GNCS Giovani Ricercatori 2021–2022, 1500 euro",
       "link":     "",
       "type":     "Grant",
       "_date":    "21.11.1"
     }, 
-                                            {
+    {
       "title":    "Visiting position",
       "subtitle": " University of Cagliari",
       "link":     "",
       "type":     "Event",
       "_date":    "21.10.01"
     },
-                    {
+   {
       "title":    "Editorial Activity",
       "subtitle": "Editor for: Mathematical Modelling and Numerical Simulation with Applications",
       "type":     "Event",
       "_date":    "21.09.01"
     },
-                                {
+   {
       "title":    "Editorial Activity",
       "subtitle": "Reviewer for: Applied Numerical Mathematics",
       "type":     "Event",
       "_date":    "20.09.01"
     },
-                            {
+  {
       "title":    "Editorial Activity",
       "subtitle": "Reviewer for: Chaos, Solitons and Fractals",
       "type":     "Event",
       "_date":    "20.09.01"
     },
-                                                {
-      "title":    "Editorial Activity",
+    {
+    "title":    "Editorial Activity",
       "subtitle": "Reviewer for: Journal of Biological Systems",
       "type":     "Event",
       "_date":    "20.09.01"
     },
-                                            {
+   {
       "title":    "Editorial Activity",
       "subtitle": "Reviewer for: Mathematical Modelling and Numerical Simulation with Applications",
       "type":     "Event",
       "_date":    "20.09.01"
     },
-                                        {
+   {
       "title":    "Editorial Activity",
       "subtitle": "Reviewer for: Symmetry",
       "type":     "Event",
       "_date":    "20.09.01"
     },
-                                    {
+   {
       "title":    "Editorial Activity",
       "subtitle": "Reviewer for: Annali dell’Università di Ferrara",
       "type":     "Event",
       "_date":    "20.09.01"
     },
-                                {
+   {
       "title":    "Editorial Activity",
       "subtitle": "Reviewer for: Letters in Biomathematics",
       "type":     "Event",
       "_date":    "20.09.01"
     },
-                            {
+  {
       "title":    "Editorial Activity",
       "subtitle": "Reviewer for:  International Journal of Modeling, Simulation, and Scientific Computing",
       "type":     "Event",
       "_date":    "20.09.01"
     },
-                        {
+  {
       "title":    "Editorial Activity",
       "subtitle": "Reviewer for: Letters in Biomathematics",
       "type":     "Event",
       "_date":    "20.09.01"
     },
 
-                    {
+    {
       "title":    "Editorial Activity",
       "subtitle": "Reviewer for: International Journal of Environmental Research and Public Health",
       "type":     "Event",
