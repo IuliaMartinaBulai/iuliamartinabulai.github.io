@@ -631,6 +631,48 @@
     }
   ],
   "news": [
+                {
+      "title":    "Invited talk",
+      "subtitle": "Two days on mathematical modeling of disease evolution, Sardinia, IT, November 2025",
+      "link":     "https://www.uniss.it/en/events/two-days-mathematical-modeling-disease-evolution",
+      "type":     "Event",
+      "_date":    "25.11.06"
+    },
+            {
+      "title":    "Invited talk",
+      "subtitle": "Multiresolution Methods for Unstructured Data: Past, Present and Future, Lugano, CH, October 2025",
+      "link":     "https://mud25.usi.ch/",
+      "type":     "Event",
+      "_date":    "25.10.01"
+    },
+        {
+      "title":    "Invited talk",
+      "subtitle": "Approximation, Quadrature, and Applications (AQuA25), Sardinia, October 2025",
+      "link":     "https://bugs.unica.it/AQuA25/",
+      "type":     "Event",
+      "_date":    "25.10.09"
+    },
+        {
+      "title":    "Invited contributed talk",
+      "subtitle": "SIAM Conference on Control and Its Applications (CT25), Montreal, CA, July 2025",
+      "link":     "https://www.siam.org/conferences-events/past-event-archive/ct25/",
+      "type":     "Event",
+      "_date":    "25.07.28"
+    },
+            {
+      "title":    "Minisymposia co-organizer",
+      "subtitle": "''Approximation Methods And Mathematical Models'' at Società Italiana di Matematica Applicata e Industriale, SIMAI2025, Trieste–IT, September 2025",
+      "link":     "https://simai2025.cimne.com/",
+      "type":     "Event",
+      "_date":    "25.09.01"
+    },
+    {
+          "title":    "Contributed talk",
+      "subtitle": "Society for Mathematical Biology (SMB 2025) Edmonton–CA, June/July 2025",
+      "link":     "https://2025.smb.org/",
+      "type":     "Event",
+      "_date":    "25.07.13"
+    },
         {
       "title":    "Minisymposia co-organizer",
       "subtitle": "''Mathematical imaging and signal processing'' at Dolomites Workshop on Constructive Approximation and Applications (DWCAA) Alba di Canazei – IT, September 2024",
