@@ -27,6 +27,32 @@
   ],
   "types": ["Journal Papers", "Book Chapters", "Proceedings", "Submitted Preprints"],
   "publications": [
+                                         {
+      "title":    "Efficient Calculation of Graph Spectral Dimension",
+      "authors":  "I. M. Bulai, I. Iakovidis, T. Steger",
+      "journal":  "Under review",
+      "year":     2025,
+      "link":     "",
+      "topic":    "Analysis and Numerical analysis",
+      "type":     "Submitted Preprints",
+      "_date":    "25.11.01",
+      "abstract": [
+        ""
+      ]
+    },
+                                     {
+      "title":    "Modeling the control on the formation and dissolution of amyloid plaques in Alzheimer’s disease",
+      "authors":  "Acotto, I. M. Bulai, F.Gladiali",
+      "journal":  "Under review",
+      "year":     2025,
+      "link":     "",
+      "topic":    "Mathematical modelling",
+      "type":     "Submitted Preprints",
+      "_date":    "25.11.01",
+      "abstract": [
+        ""
+      ]
+    },
                                  {
       "title":    "Optimal control of virotherapy in a tumor model",
       "authors":  "S. Allegretti, I. M. Bulai, S. Lenhart, G. Orrù",
