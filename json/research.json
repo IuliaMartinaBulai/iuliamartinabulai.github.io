@@ -1738,7 +1738,7 @@
       "title": "Scientific advisor",
       "text": [
         "<ul>",
-        "<li> Ongoing: 12 months postdoc: ''Analytical and numerical methods for graph signal processing'' (Isidoros Iakovidis) </li>", 
+        "<li> Completed: 12 months postdoc: ''Analytical and numerical methods for graph signal processing'' (Isidoros Iakovidis) </li>", 
         "<li> Completed: 6 months scholarship: ''Mathematical modeling and analysis of biological systems'' (Giulia Orrù) </li>", 
         "<li> Completed: 8 months scholarship: ''Study of mathematical models for population dynamics and biodiversity distribution'' (Giulia Orrù) </li>", 
         "<li> Completed: 5 months scholarship: ''Studio di modelli epidemiologici caratterizzati da classi non omogenee con applicazione a Covid-19'' (Martina Salvia) </li>", 
@@ -1757,6 +1757,7 @@
       "title": "Thesis ",
       "text": [
         "<ul>", 
+        "<li> Completed: Alessandro Esposito, Biological optimal control of Citrus black spot disease. Bachelor in Mathematics, Università di Torino, 18/11/2026 </li>", 
         "<li> Completed: Martina Salvia, An epidemiological mathematical model assuming non well-mixed population, an application to Covid-19. Bachelor in Mathematics, Università di Basilicata, 24/02/2022. </li>",
         "<li> Completed: Stefania Allegretti, Modeling oncolytic virotherapy. Bachelor in Mathematics, Università di Basilicata, 19/07/2022 </li>", 
         "</ul>" 
