@@ -27,6 +27,19 @@
   ],
   "types": ["Journal Papers", "Book Chapters", "Proceedings", "Submitted Preprints"],
   "publications": [
+                                            {
+      "title":    "Beyond Single-Window Graph Fourier Analysis",
+      "authors":  "I. M. Bulai, E. Cordero, E. Pucci, S. Saliani",
+      "journal":  "Under review",
+      "year":     2026,
+      "link":     "",
+      "topic":    "Analysis and Numerical analysis",
+      "type":     "Submitted Preprints",
+      "_date":    "26.01.30",
+      "abstract": [
+        ""
+      ]
+    },
                                          {
       "title":    "Efficient Calculation of Graph Spectral Dimension",
       "authors":  "I. M. Bulai, I. Iakovidis, T. Steger",
@@ -631,6 +644,14 @@
     }
   ],
   "news": [
+
+                    {
+      "title":    "Invited contribute talk",
+      "subtitle": "16th Conference on Dynamical Systems Applied to Biology and Natural Sciences (DSABNS 2026), Granada, ESP",
+      "link":     "https://sites.google.com/bcamath.org/dsabns-2026/home?authuser=0",
+      "type":     "Event",
+      "_date":    "26.02.01"
+    },
                 {
       "title":    "Invited talk",
       "subtitle": "Two days on mathematical modeling of disease evolution, Sardinia, IT, November 2025",
